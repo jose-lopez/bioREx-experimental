@@ -1,0 +1,183 @@
+10072495|t|The EBV transforming protein, latent membrane protein 1, mimics and cooperates with CD40 signaling in B lymphocytes.
+10072495|a|Latent membrane protein 1 (LMP1) is required for EBV-induced immortalization of human B cells, and expression of the protein in the absence of other viral proteins leads to an activated phenotype in B cells. It has been well documented that LMP1 causes B cells to up-regulate adhesion molecules, such as LFA-1 and ICAM-1, and coactivation molecules, such as B7-1 and CD23, as well as to activate NF-kappaB. Ligation of the endogenous B cell CD40 molecule also induces these and other activated phenotypic changes. Here, we report that expression of LMP1 also activates B cells to secrete Ig and IL-6 and rescues them from B cell receptor-mediated growth arrest analogous to CD40 signaling. Furthermore, an HLA-A2LMP1 chimeric construct demonstrates that the oligomerization of the carboxyl-terminal 200 amino acids of LMP1 is sufficient for B cell signaling. Finally, we demonstrate that LMP1 and CD40 signaling pathways interact cooperatively in inducing B cell effector functions.
+10072495	30	55	latent membrane protein 1	GeneOrGeneProduct	9260
+10072495	84	88	CD40	GeneOrGeneProduct	958
+10072495	117	142	Latent membrane protein 1	GeneOrGeneProduct	9260
+10072495	197	202	human	OrganismTaxon	9606
+10072495	421	426	LFA-1	GeneOrGeneProduct	3683
+10072495	431	437	ICAM-1	GeneOrGeneProduct	3383
+10072495	475	479	B7-1	GeneOrGeneProduct	941
+10072495	484	488	CD23	GeneOrGeneProduct	2208
+10072495	513	523	NF-kappaB.	GeneOrGeneProduct	4790
+10072495	558	562	CD40	GeneOrGeneProduct	958
+10072495	712	716	IL-6	GeneOrGeneProduct	3569
+10072495	791	795	CD40	GeneOrGeneProduct	958
+10072495	1014	1018	CD40	GeneOrGeneProduct	958
+10072495	Bind	958	4790	0.9048205576602707
+10072495	Association	9260	958	0.878073738573707
+
+10072520|t|Lymphocyte activation gene-3, a MHC class II ligand expressed on activated T cells, stimulates TNF-alpha and IL-12 production by monocytes and dendritic cells.
+10072520|a|Lymphocyte activation gene-3 (LAG-3) is an MHC class II ligand structurally and genetically related to CD4. Although its expression is restricted to activated T cells and NK cells, the functions of LAG-3 remain to be elucidated. Here, we report on the expression and function of LAG-3 on proinflammatory bystander T cells that are activated in the absence of TCR engagement. LAG-3 is expressed at high levels on human T cells cocultured with autologous monocytes and IL-2 and synergizes with the low levels of CD40 ligand (CD40L) expressed on these cells to trigger TNF-alpha and IL-12 production by monocytes. Indeed, anti-LAG-3 mAb inhibits both IL-12 and IFN-gamma production in IL-2-stimulated cocultures of T cells and autologous monocytes. Soluble LAG-3Ig fusion protein markedly enhances IL-12 production by monocytes stimulated with infra-optimal concentrations of sCD40L, whereas it directly stimulates monocyte-derived dendritic cells (DC) for the production of TNF-alpha and IL-12, unravelling an enhanced responsiveness to MHC class II engagemenent in DC as compared with activated monocytes. Thus similar to CD40L, LAG-3 may be involved in the proinflammatory activity of cytokine-activated bystander T cells and most importantly it may directly activate DC.
+10072520	0	28	Lymphocyte activation gene-3	GeneOrGeneProduct	3902
+10072520	95	104	TNF-alpha	GeneOrGeneProduct	7124
+10072520	109	114	IL-12	GeneOrGeneProduct	3593
+10072520	160	188	Lymphocyte activation gene-3	GeneOrGeneProduct	3902
+10072520	190	195	LAG-3	GeneOrGeneProduct	3902
+10072520	263	266	CD4	GeneOrGeneProduct	920
+10072520	358	363	LAG-3	GeneOrGeneProduct	3902
+10072520	439	444	LAG-3	GeneOrGeneProduct	3902
+10072520	519	522	TCR	GeneOrGeneProduct	6962
+10072520	535	540	LAG-3	GeneOrGeneProduct	3902
+10072520	572	577	human	OrganismTaxon	9606
+10072520	627	631	IL-2	GeneOrGeneProduct	3558
+10072520	670	681	CD40 ligand	GeneOrGeneProduct	959
+10072520	683	688	CD40L	GeneOrGeneProduct	959
+10072520	726	735	TNF-alpha	GeneOrGeneProduct	7124
+10072520	740	745	IL-12	GeneOrGeneProduct	3593
+10072520	784	789	LAG-3	GeneOrGeneProduct	3902
+10072520	808	813	IL-12	GeneOrGeneProduct	3593
+10072520	818	827	IFN-gamma	GeneOrGeneProduct	3458
+10072520	842	846	IL-2	GeneOrGeneProduct	3558
+10072520	955	960	IL-12	GeneOrGeneProduct	3593
+10072520	1132	1141	TNF-alpha	GeneOrGeneProduct	7124
+10072520	1146	1151	IL-12	GeneOrGeneProduct	3593
+10072520	1281	1286	CD40L	GeneOrGeneProduct	959
+10072520	1288	1293	LAG-3	GeneOrGeneProduct	3902
+10072520	Positive_Correlation	3593	959	0.9805185923474039
+10072520	Positive_Correlation	7124	959	0.9637757947782
+10072520	Positive_Correlation	3902	3593	0.9992896033279475
+10072520	Positive_Correlation	3902	7124	0.9993238628543459
+10072520	Positive_Correlation	3902	959	0.6057278405399363
+10072520	Association	3902	3558	0.9939805551149679
+10072520	Positive_Correlation	3902	3458	0.5123207563810337
+
+10074208|t|Ebola virus selectively inhibits responses to interferons, but not to interleukin-1beta, in endothelial cells.
+10074208|a|Ebola virus infection is highly lethal and leads to severe immunosuppression. In this study, we demonstrate that infection of human umbilical vein endothelial cells (HUVECs) with Ebola virus Zaire (EZ) suppressed basal expression of the major histocompatibility complex class I (MHC I) family of proteins and inhibited the induction of multiple genes by alpha interferon (IFN-alpha) and IFN-gamma, including those coding for MHC I proteins, 2'-5' oligoadenylate synthetase [2'-5'(A)N], and IFN regulatory factor 1 (IRF-1). Induction of interleukin-6 (IL-6) and ICAM-1 by IL-1beta was not suppressed by infection with EZ, suggesting that the inhibition of IFN signaling is specific. Gel shift analysis demonstrated that infection with EZ blocked the induction by IFNs of nuclear proteins that bind to IFN-stimulated response elements, gamma activation sequences, and IFN regulatory factor binding site (IRF-E). In contrast, infection with EZ did not block activation of the transcription factor NF-kappaB by IL-1beta. The events that lead to the blockage of IFN signaling may be critical for Ebola virus-induced immunosuppression and would play a role in the pathogenesis of Ebola virus infection.
+10074208	0	11	Ebola virus	OrganismTaxon	186536
+10074208	70	87	interleukin-1beta	GeneOrGeneProduct	3553
+10074208	224	233	infection	DiseaseOrPhenotypicFeature	D007239
+10074208	237	242	human	OrganismTaxon	9606
+10074208	483	492	IFN-alpha	GeneOrGeneProduct	3439
+10074208	498	507	IFN-gamma	GeneOrGeneProduct	3458
+10074208	601	624	IFN regulatory factor 1	GeneOrGeneProduct	3659
+10074208	626	631	IRF-1	GeneOrGeneProduct	3659
+10074208	647	660	interleukin-6	GeneOrGeneProduct	3569
+10074208	662	666	IL-6	GeneOrGeneProduct	3569
+10074208	672	678	ICAM-1	GeneOrGeneProduct	3383
+10074208	682	690	IL-1beta	GeneOrGeneProduct	3553
+10074208	713	722	infection	DiseaseOrPhenotypicFeature	D007239
+10074208	766	769	IFN	GeneOrGeneProduct	3439
+10074208	830	839	infection	DiseaseOrPhenotypicFeature	D007239
+10074208	911	914	IFN	GeneOrGeneProduct	3439
+10074208	1034	1043	infection	DiseaseOrPhenotypicFeature	D007239
+10074208	1105	1114	NF-kappaB	GeneOrGeneProduct	4790
+10074208	1118	1126	IL-1beta	GeneOrGeneProduct	3553
+10074208	1168	1171	IFN	GeneOrGeneProduct	3439
+10074208	1202	1213	Ebola virus	OrganismTaxon	186536
+10074208	Positive_Correlation	3553	4790	0.997026889031249
+10074208	Positive_Correlation	3553	3569	0.9986441536681507
+10074208	Positive_Correlation	3553	3383	0.9993500615270927
+
+10074428|t|Identification of a new member of the tumor necrosis factor family and its receptor, a human ortholog of mouse GITR.
+10074428|a|The tumor necrosis factor (TNF) and TNF receptor (TNFR) gene superfamilies regulate diverse biological functions, including cell proliferation, differentiation, and survival [1] [2] [3]. We have identified a new TNF-related ligand, designated human GITR ligand (hGITRL), and its human receptor (hGITR), an ortholog of the recently discovered murine glucocorticoid-induced TNFR-related (mGITR) protein [4]. The hGITRL gene mapped to chromosome 1q23, near the gene for the TNF homolog Fas/CD95 ligand [5]. The hGITR gene mapped to chromosome 1p36, near a cluster of five genes encoding TNFR homologs [1] [6]. We found hGITRL mRNA in several peripheral tissues, and detected hGITRL protein on cultured vascular endothelial cells. The levels of hGITR mRNA in tissues were generally low; in peripheral blood T cells, however, antigen-receptor stimulation led to a substantial induction of hGITR transcripts. Cotransfection of hGITRL and hGITR in embryonic kidney 293 cells activated the anti-apoptotic transcription factor NF-kappaB, via a pathway that appeared to involve TNFR-associated factor 2 (TRAF2) [7] and NF-kappaB-inducing kinase (NIK) [8]. Cotransfection of hGITRL and hGITR in Jurkat T leukemia cells inhibited antigen-receptor-induced cell death. Thus, hGITRL and hGITR may modulate T lymphocyte survival in peripheral tissues.
+10074428	38	59	tumor necrosis factor	GeneOrGeneProduct	7124
+10074428	87	92	human	OrganismTaxon	9606
+10074428	105	110	mouse	OrganismTaxon	10090
+10074428	111	115	GITR	GeneOrGeneProduct	21936
+10074428	121	142	tumor necrosis factor	GeneOrGeneProduct	7124
+10074428	144	147	TNF	GeneOrGeneProduct	7124
+10074428	153	165	TNF receptor	GeneOrGeneProduct	7132
+10074428	167	171	TNFR	GeneOrGeneProduct	7132
+10074428	329	332	TNF	GeneOrGeneProduct	7124
+10074428	360	365	human	OrganismTaxon	9606
+10074428	366	377	GITR ligand	GeneOrGeneProduct	8995
+10074428	379	385	hGITRL	GeneOrGeneProduct	8995
+10074428	396	401	human	OrganismTaxon	9606
+10074428	459	465	murine	OrganismTaxon	10090
+10074428	527	533	hGITRL	GeneOrGeneProduct	8995
+10074428	549	564	chromosome 1q23	Chromosome	1
+10074428	588	591	TNF	GeneOrGeneProduct	7124
+10074428	600	603	Fas	GeneOrGeneProduct	355
+10074428	604	615	CD95 ligand	GeneOrGeneProduct	356
+10074428	646	661	chromosome 1p36	Chromosome	1
+10074428	701	705	TNFR	GeneOrGeneProduct	7132
+10074428	733	739	hGITRL	GeneOrGeneProduct	8995
+10074428	789	795	hGITRL	GeneOrGeneProduct	8995
+10074428	1038	1044	hGITRL	GeneOrGeneProduct	8995
+10074428	1075	1078	293	CellLine	CVCL_0045
+10074428	1135	1144	NF-kappaB	GeneOrGeneProduct	4790
+10074428	1185	1209	TNFR-associated factor 2	GeneOrGeneProduct	7186
+10074428	1211	1216	TRAF2	GeneOrGeneProduct	7186
+10074428	1226	1251	NF-kappaB-inducing kinase	GeneOrGeneProduct	9020
+10074428	1253	1256	NIK	GeneOrGeneProduct	9020
+10074428	1281	1287	hGITRL	GeneOrGeneProduct	8995
+10074428	1301	1318	Jurkat T leukemia	CellLine	CVCL_6G43
+10074428	1378	1384	hGITRL	GeneOrGeneProduct	8995
+10074428	Association	8995	7186	0.9982634761972046
+10074428	Positive_Correlation	8995	4790	0.5309218713196181
+10074428	Association	8995	9020	0.998930987525212
+10074428	Bind	7124	8995	0.9621592729981604
+10074428	Association	4790	7186	0.993533476698617
+10074428	Association	4790	9020	0.9926668600103845
+
+10075975|t|B7-2 expressed on EL4 lymphoma suppresses antitumor immunity by an interleukin 4-dependent mechanism.
+10075975|a|For T cells to become functionally activated they require at least two signals. The B7 costimulatory molecules B7-1 and B7-2 provide the "second signal" pivotal for T cell activation. In this report, we studied the relative roles of B7-1 and B7-2 molecules in the induction of antitumor immunity to the T cell thymoma, EL4. We generated EL4 tumor cells that expressed B7-1, B7-2, and B7-1+B7-2 by transfecting murine cDNAs. Our results demonstrate that EL4-B7-1 cells are completely rejected in syngeneic mice. Unlike EL4-B7-1 cells, we find that EL4-B7-2 cells are not rejected but progressively grow in the mice. A B7-1- and B7-2-EL4 double transfectant was generated by introducing B7-2 cDNA into the EL4-B7-1 tumor line that regressed in vivo. The EL4-B7-1+B7-2 double transfectant was not rejected when implanted into syngeneic mice but progressively grew to produce tumors. The double transfectant EL4 cells could costimulate T cell proliferation that could be blocked by anti-B7-1 antibodies, anti-B7-2 antibodies, or hCTLA4 immunoglobulin, showing that the B7-1 and B7-2 molecules expressed on the EL4 cells were functional. In vivo, treatment of mice implanted with double-transfected EL4 cells with anti-B7-2 monoclonal antibody resulted in tumor rejection. Furthermore, the EL4-B7-2 and EL4-B7-1+B7-2 cells, but not the wild-type EL4 cells, were rejected in interleukin 4 (IL-4) knockout mice. Our data suggests that B7-2 expressed on some T cell tumors inhibits development of antitumor immunity, and IL-4 appears to play a critical role in abrogation of the antitumor immune response.
+10075975	0	4	B7-2	GeneOrGeneProduct	12524
+10075975	18	30	EL4 lymphoma	CellLine	CVCL_0255
+10075975	67	80	interleukin 4	GeneOrGeneProduct	16189
+10075975	213	217	B7-1	GeneOrGeneProduct	12519
+10075975	222	226	B7-2	GeneOrGeneProduct	12524
+10075975	335	339	B7-1	GeneOrGeneProduct	12519
+10075975	344	348	B7-2	GeneOrGeneProduct	12524
+10075975	405	419	T cell thymoma	DiseaseOrPhenotypicFeature	D013945
+10075975	421	424	EL4	CellLine	CVCL_0255
+10075975	439	448	EL4 tumor	CellLine	CVCL_0255
+10075975	470	474	B7-1	GeneOrGeneProduct	12519
+10075975	476	480	B7-2	GeneOrGeneProduct	12524
+10075975	486	490	B7-1	GeneOrGeneProduct	12519
+10075975	491	495	B7-2	GeneOrGeneProduct	12524
+10075975	512	518	murine	OrganismTaxon	10090
+10075975	555	558	EL4	CellLine	CVCL_0255
+10075975	559	563	B7-1	GeneOrGeneProduct	12519
+10075975	607	611	mice	OrganismTaxon	10090
+10075975	620	623	EL4	CellLine	CVCL_0255
+10075975	624	628	B7-1	GeneOrGeneProduct	12519
+10075975	649	652	EL4	CellLine	CVCL_0255
+10075975	653	657	B7-2	GeneOrGeneProduct	12524
+10075975	711	715	mice	OrganismTaxon	10090
+10075975	719	723	B7-1	GeneOrGeneProduct	12519
+10075975	729	733	B7-2	GeneOrGeneProduct	12524
+10075975	734	737	EL4	CellLine	CVCL_0255
+10075975	787	791	B7-2	GeneOrGeneProduct	12524
+10075975	806	809	EL4	CellLine	CVCL_0255
+10075975	810	814	B7-1	GeneOrGeneProduct	12519
+10075975	815	820	tumor	DiseaseOrPhenotypicFeature	D009369
+10075975	854	857	EL4	CellLine	CVCL_0255
+10075975	858	862	B7-1	GeneOrGeneProduct	12519
+10075975	863	867	B7-2	GeneOrGeneProduct	12524
+10075975	935	939	mice	OrganismTaxon	10090
+10075975	974	980	tumors	DiseaseOrPhenotypicFeature	D009369
+10075975	1006	1009	EL4	CellLine	CVCL_0255
+10075975	1085	1089	B7-1	GeneOrGeneProduct	12519
+10075975	1107	1111	B7-2	GeneOrGeneProduct	12524
+10075975	1167	1171	B7-1	GeneOrGeneProduct	12519
+10075975	1176	1180	B7-2	GeneOrGeneProduct	12524
+10075975	1208	1211	EL4	CellLine	CVCL_0255
+10075975	1257	1261	mice	OrganismTaxon	10090
+10075975	1296	1299	EL4	CellLine	CVCL_0255
+10075975	1316	1320	B7-2	GeneOrGeneProduct	12524
+10075975	1353	1358	tumor	DiseaseOrPhenotypicFeature	D009369
+10075975	1391	1395	B7-2	GeneOrGeneProduct	12524
+10075975	1404	1408	B7-1	GeneOrGeneProduct	12519
+10075975	1409	1413	B7-2	GeneOrGeneProduct	12524
+10075975	1443	1446	EL4	CellLine	CVCL_0255
+10075975	1471	1484	interleukin 4	GeneOrGeneProduct	16189
+10075975	1486	1490	IL-4	GeneOrGeneProduct	16189
+10075975	1501	1505	mice	OrganismTaxon	10090
+10075975	1530	1534	B7-2	GeneOrGeneProduct	12524
+10075975	1560	1566	tumors	DiseaseOrPhenotypicFeature	D009369
+10075975	1615	1619	IL-4	GeneOrGeneProduct	16189
+10075975	Association	12524	16189	0.998897330974516
+10075975	Association	D009369	12519	0.9988680172039328
+10075975	Association	D009369	12524	0.9881343667767735
+

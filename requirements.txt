@@ -1,0 +1,10 @@
+tensorflow == 2.18.0
+tf-keras == 2.18.0
+transformers == 4.47.1
+accelerate == 1.2.1
+pandas == 2.2.3
+datasets == 3.2.0
+sentencepiece != 0.1.92
+protobuf == 5.29.2
+scispacy == 0.5.5
+https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_core_sci_md-0.5.4.tar.gz
