@@ -1,0 +1,654 @@
+HPRD50_d15_1|t|Physical association of beta 2 integrin with GPI-80, a novel glycosylphosphatidylinositol-anchored protein with potential for regulating adhesion and migration To clarify the mechanisms by which GPI-80 functions on leukocytes, we explored the possibility of its physical association with beta 2 integrin which is important for leukocyte adherence, locomotion, and extravasation beta 2 integrin, detected by anti-CD18 mAb, was coprecipitated with GPI-80 from human neutrophil lysates by a mAb to GPI-80 In addition, GPI-80 was immunoprecipitated from human neutrophil lysates by anti-human CD18 mAb These results clearly show that GPI-80 is physically associated with beta 2 integrin in human neutrophils.
+HPRD50_d15_1	24	39	beta 2 integrin	Gene	T1
+HPRD50_d15_1	45	51	GPI-80	Gene	T2
+HPRD50_d15_1	195	201	GPI-80	Gene	T3
+HPRD50_d15_1	288	303	beta 2 integrin	Gene	T4
+HPRD50_d15_1	378	393	beta 2 integrin	Gene	T5
+HPRD50_d15_1	446	452	GPI-80	Gene	T6
+HPRD50_d15_1	495	501	GPI-80	Gene	T7
+HPRD50_d15_1	515	521	GPI-80	Gene	T8
+HPRD50_d15_1	589	593	CD18	Gene	T9
+HPRD50_d15_1	630	636	GPI-80	Gene	T10
+HPRD50_d15_1	667	682	beta 2 integrin	Gene	T11
+HPRD50_d15_1	Association	T1	T2
+HPRD50_d15_1	Association	T8	T9
+HPRD50_d15_1	Association	T5	T6
+HPRD50_d15_1	Association	T10	T11
+HPRD50_d15_1	Association	T3	T4
+
+HPRD50_d12_1|t|AP180 binds to the C-terminal SH2 domain of phospholipase C-gamma1 and inhibits its enzymatic activity In this report, we demonstrate the stable association of PLCgamma1 with AP180 in a clathrin-coated vesicle complex, which not only binds to the carboxyl-terminal SH2 domain of PLCgamma1, but also inhibits its enzymatic activity in a dose-dependent manner.
+HPRD50_d12_1	0	5	AP180	Gene	T1
+HPRD50_d12_1	44	66	phospholipase C-gamma1	Gene	T2
+HPRD50_d12_1	160	169	PLCgamma1	Gene	T3
+HPRD50_d12_1	175	180	AP180	Gene	T4
+HPRD50_d12_1	279	288	PLCgamma1	Gene	T5
+HPRD50_d12_1	Association	T1	T2
+HPRD50_d12_1	Association	T4	T5
+HPRD50_d12_1	Association	T3	T4
+
+HPRD50_d1_1|t|Identification of residues in the monocyte chemotactic protein-1 that contact the MCP-1 receptor, CCR2 The receptor binding site of MCP-1 also is significantly different from the binding sites of RANTES and IL-8, providing insight into the issue of receptor specificity It was previously shown that the N-terminus of CCR2 is critical for binding MCP-1 To identify the regions of MCP-1 that contact its receptor, CCR2, we substituted all surface-exposed residues with alanine.
+HPRD50_d1_1	34	64	monocyte chemotactic protein-1	Gene	T1
+HPRD50_d1_1	98	102	CCR2	Gene	T2
+HPRD50_d1_1	132	137	MCP-1	Gene	T3
+HPRD50_d1_1	196	202	RANTES	Gene	T4
+HPRD50_d1_1	207	211	IL-8	Gene	T5
+HPRD50_d1_1	317	321	CCR2	Gene	T6
+HPRD50_d1_1	346	351	MCP-1	Gene	T7
+HPRD50_d1_1	379	384	MCP-1	Gene	T8
+HPRD50_d1_1	412	416	CCR2	Gene	T9
+HPRD50_d1_1	Association	T1	T2
+HPRD50_d1_1	Association	T6	T7
+HPRD50_d1_1	Association	T8	T9
+
+HPRD50_d27_1|t|Pinin/DRS/memA interacts with SRp75, SRm300 and SRrp130 in corneal epithelial cells Three SR-rich proteins were identified that interact with the C-terminus of Pnn: SRp75 and SRm300, known components of spliceosome machinery, and a novel 130-kDa nuclear protein, SRrp130.
+HPRD50_d27_1	0	5	Pinin	Gene	T1
+HPRD50_d27_1	6	9	DRS	Gene	T2
+HPRD50_d27_1	30	35	SRp75	Gene	T3
+HPRD50_d27_1	37	43	SRm300	Gene	T4
+HPRD50_d27_1	165	170	SRp75	Gene	T5
+HPRD50_d27_1	175	181	SRm300	Gene	T6
+HPRD50_d27_1	Association	T1	T4
+HPRD50_d27_1	Association	T1	T3
+HPRD50_d27_1	Association	T2	T4
+HPRD50_d27_1	Association	T2	T3
+
+HPRD50_d6_1|t|Regulation of neutrophil adhesion by pituitary growth hormone accompanies tyrosine phosphorylation of Jak2, p125FAK, and paxillin These results suggest that pituitary GH modulates neutrophil adhesion through tyrosine phosphorylation of Jak2, p125FAK, and paxillin and actin polymerization Pituitary GH triggered the tyrosine phosphorylation of Janus kinase 2 (Jak2) and STAT3 in neutrophils Preincubation with genistein, a tyrosine kinase inhibitor, blocked the GH-stimulated adhesion and Jak2, STAT3, p125FAK, and paxillin phosphorylation Immunoprecipitation experiments revealed a physical association of Jak2 with p125FAK via STAT3 in vivo.
+HPRD50_d6_1	102	106	Jak2	Gene	T1
+HPRD50_d6_1	121	129	paxillin	Gene	T2
+HPRD50_d6_1	236	240	Jak2	Gene	T3
+HPRD50_d6_1	255	263	paxillin	Gene	T4
+HPRD50_d6_1	344	358	Janus kinase 2	Gene	T5
+HPRD50_d6_1	360	364	Jak2	Gene	T6
+HPRD50_d6_1	370	375	STAT3	Gene	T7
+HPRD50_d6_1	489	493	Jak2	Gene	T8
+HPRD50_d6_1	495	500	STAT3	Gene	T9
+HPRD50_d6_1	515	523	paxillin	Gene	T10
+HPRD50_d6_1	607	611	Jak2	Gene	T11
+HPRD50_d6_1	629	634	STAT3	Gene	T12
+HPRD50_d6_1	Association	T11	T12
+
+HPRD50_d20_1|t|The human Imp3 and Imp4 proteins form a ternary complex with hMpp10, which only interacts with the U3 snoRNA in 60-80S ribonucleoprotein complexes We have cloned cDNAs encoding the human and mouse homologs of the yeast U3 snoRNP-associated proteins Imp3 and Imp4 The results of complementation experiments show that, in contrast to mouse Imp4, mouse Imp3 can partially alleviate the growth defect of the corresponding yeast null strain, indicating that the role of Imp3 in pre-rRNA processing is evolutionarily conserved The results of density gradient centrifugation experiments show that, in contrast to hU3-55K, the human Imp3 and Imp4 proteins predominantly interact with the U3 snoRNA in 60-80S ribonucleoprotein complexes.
+HPRD50_d20_1	10	14	Imp3	Gene	T1
+HPRD50_d20_1	19	23	Imp4	Gene	T2
+HPRD50_d20_1	102	108	snoRNA	Gene	T3
+HPRD50_d20_1	249	253	Imp3	Gene	T4
+HPRD50_d20_1	258	262	Imp4	Gene	T5
+HPRD50_d20_1	338	342	Imp4	Gene	T6
+HPRD50_d20_1	350	354	Imp3	Gene	T7
+HPRD50_d20_1	465	469	Imp3	Gene	T8
+HPRD50_d20_1	625	629	Imp3	Gene	T9
+HPRD50_d20_1	634	638	Imp4	Gene	T10
+HPRD50_d20_1	683	689	snoRNA	Gene	T11
+HPRD50_d20_1	Association	T1	T2
+HPRD50_d20_1	Association	T1	T3
+HPRD50_d20_1	Association	T9	T11
+HPRD50_d20_1	Association	T10	T11
+HPRD50_d20_1	Association	T2	T3
+
+HPRD50_d8_1|t|By constructing deletion mutants, we identified that amino acid residues 229-309 of Akt were involved in the binding to Hsp90 and amino acid residues 327-340 of Hsp90beta were involved in the binding to Akt.
+HPRD50_d8_1	120	125	Hsp90	Gene	T1
+HPRD50_d8_1	161	170	Hsp90beta	Gene	T2
+
+HPRD50_d29_1|t|Modification of de novo DNA methyltransferase 3a (Dnmt3a) by SUMO-1 modulates its interaction with histone deacetylases (HDACs) and its capacity to repress transcription Here we show that Dnmt3a interacts with multiple components of the sumoylation machinery, namely the E2 sumo conjugating enzyme Ubc9 and the E3 sumo ligases PIAS1 and PIASxalpha, all of which are involved in conjugating the small ubiquitin-like modifier polypeptide, SUMO-1, to its target proteins Dnmt3a is modified by SUMO-1 in vivo and in vitro and the region of Dnmt3a responsible for interaction maps to the N-terminal regulatory domain Functionally, sumoylation of Dnmt3a disrupts its ability to interact with histone deacetylases (HDAC1/2), but not with another interaction partner, Dnmt3b.
+HPRD50_d29_1	50	56	Dnmt3a	Gene	T1
+HPRD50_d29_1	61	67	SUMO-1	Gene	T2
+HPRD50_d29_1	188	194	Dnmt3a	Gene	T3
+HPRD50_d29_1	298	302	Ubc9	Gene	T4
+HPRD50_d29_1	327	332	PIAS1	Gene	T5
+HPRD50_d29_1	337	347	PIASxalpha	Gene	T6
+HPRD50_d29_1	437	443	SUMO-1	Gene	T7
+HPRD50_d29_1	468	474	Dnmt3a	Gene	T8
+HPRD50_d29_1	490	496	SUMO-1	Gene	T9
+HPRD50_d29_1	536	542	Dnmt3a	Gene	T10
+HPRD50_d29_1	641	647	Dnmt3a	Gene	T11
+HPRD50_d29_1	708	713	HDAC1	Gene	T12
+HPRD50_d29_1	760	766	Dnmt3b	Gene	T13
+HPRD50_d29_1	Association	T1	T2
+HPRD50_d29_1	Association	T4	T7
+HPRD50_d29_1	Association	T6	T7
+HPRD50_d29_1	Association	T11	T12
+HPRD50_d29_1	Association	T8	T9
+HPRD50_d29_1	Association	T5	T7
+HPRD50_d29_1	Association	T3	T4
+HPRD50_d29_1	Association	T3	T6
+HPRD50_d29_1	Association	T3	T5
+
+HPRD50_d38_1|t|Subsequent amino acid sequencing revealed many peptides involving involucrin cross-linked either to itself or to a variety of other known CE protein components, including cystatin alpha, desmoplakin, elafin, keratins, members of the small proline-rich superfamily, loricrin, and unknown proteins related to the desmoplakin family Specific glutamines or lysines of involucrin were used to cross-link the different proteins, such as glutamines 495 and 496 to desmoplakin, glutamine 288 to keratins, and lysines 468, 485, and 508 and glutamines 465 and 489 for interchain involucrin cross-links.
+HPRD50_d38_1	66	76	involucrin	Gene	T1
+HPRD50_d38_1	171	185	cystatin alpha	Gene	T2
+HPRD50_d38_1	187	198	desmoplakin	Gene	T3
+HPRD50_d38_1	200	206	elafin	Gene	T4
+HPRD50_d38_1	265	273	loricrin	Gene	T5
+HPRD50_d38_1	311	322	desmoplakin	Gene	T6
+HPRD50_d38_1	364	374	involucrin	Gene	T7
+HPRD50_d38_1	457	468	desmoplakin	Gene	T8
+HPRD50_d38_1	569	579	involucrin	Gene	T9
+HPRD50_d38_1	Association	T1	T4
+HPRD50_d38_1	Association	T1	T6
+HPRD50_d38_1	Association	T1	T5
+HPRD50_d38_1	Association	T1	T2
+HPRD50_d38_1	Association	T1	T3
+
+HPRD50_d31_1|t|Raf1 interaction with Cdc25 phosphatase ties mitogenic signal transduction to cell cycle activation We show here that Cdc25 phosphatase associates with raf1 in somatic mammalian cells and in meiotic frog oocytes.
+HPRD50_d31_1	0	4	Raf1	Gene	T1
+HPRD50_d31_1	22	27	Cdc25	Gene	T2
+HPRD50_d31_1	118	123	Cdc25	Gene	T3
+HPRD50_d31_1	152	156	raf1	Gene	T4
+HPRD50_d31_1	Association	T1	T2
+HPRD50_d31_1	Association	T3	T4
+
+HPRD50_d36_1|t|CD22 associates with protein tyrosine phosphatase 1C, Syk, and phospholipase C-gamma(1) upon B cell activation These results suggest that tyrosyl-phosphorylated CD22 may be a substrate for PTP-1C regulates tyrosyl phosphorylation of CD22 The association of PTP-1C with CD22 was mediated by the NH2-terminal Src homology 2 (SH2) domain of PTP-1C Complexes of either CD22/PTP-1C/Syk/PLC-gamma(1) could be isolated from B cells stimulated by BCR engagement or a mixture of hydrogen peroxidase and sodium orthovanadate, respectively Transient expression of CD22 and a null mutant of PTP-1C (PTP-1CM) in COS cells resulted in an increase in tyrosyl phosphorylation of CD22 and its interaction with PTP-1CM By contrast, CD22 was not tyrosyl phosphorylated or associated with PTP-1CM in the presence of wild-type PTP-1C.
+HPRD50_d36_1	0	4	CD22	Gene	T1
+HPRD50_d36_1	21	52	protein tyrosine phosphatase 1C	Gene	T2
+HPRD50_d36_1	161	165	CD22	Gene	T3
+HPRD50_d36_1	189	195	PTP-1C	Gene	T4
+HPRD50_d36_1	233	237	CD22	Gene	T5
+HPRD50_d36_1	257	263	PTP-1C	Gene	T6
+HPRD50_d36_1	269	273	CD22	Gene	T7
+HPRD50_d36_1	338	344	PTP-1C	Gene	T8
+HPRD50_d36_1	365	369	CD22	Gene	T9
+HPRD50_d36_1	370	376	PTP-1C	Gene	T10
+HPRD50_d36_1	553	557	CD22	Gene	T11
+HPRD50_d36_1	579	585	PTP-1C	Gene	T12
+HPRD50_d36_1	663	667	CD22	Gene	T13
+HPRD50_d36_1	714	718	CD22	Gene	T14
+HPRD50_d36_1	806	812	PTP-1C	Gene	T15
+HPRD50_d36_1	Association	T1	T2
+HPRD50_d36_1	Association	T4	T5
+HPRD50_d36_1	Association	T6	T7
+HPRD50_d36_1	Association	T12	T13
+HPRD50_d36_1	Association	T9	T10
+HPRD50_d36_1	Association	T7	T8
+HPRD50_d36_1	Association	T3	T4
+
+HPRD50_d28_1|t|We report that MSH2 (MutS homolog 2) protein interacts with the ATR (ATM- and Rad3-related) kinase to form a signaling module and regulate the phosphorylation of Chk1 and SMC1 (structure maintenance of chromosome 1) We found that phosphorylation of Chk1 by ATR also requires checkpoint proteins Rad17 and replication protein A In contrast, phosphorylation of SMC1 by ATR is independent of Rad17 and replication protein A, suggesting that the signaling pathway leading to SMC1 phosphorylation is distinct from that mediated by the checkpoint proteins In addition, both MSH2 and Rad17 are required for the activation of the S-phase checkpoint to suppress DNA synthesis in response to MNNG, and phosphorylation of SMC1 is required for cellular survival.
+HPRD50_d28_1	15	19	MSH2	Gene	T1
+HPRD50_d28_1	162	166	Chk1	Gene	T2
+HPRD50_d28_1	171	175	SMC1	Gene	T3
+HPRD50_d28_1	249	253	Chk1	Gene	T4
+HPRD50_d28_1	295	300	Rad17	Gene	T5
+HPRD50_d28_1	359	363	SMC1	Gene	T6
+HPRD50_d28_1	389	394	Rad17	Gene	T7
+HPRD50_d28_1	471	475	SMC1	Gene	T8
+HPRD50_d28_1	568	572	MSH2	Gene	T9
+HPRD50_d28_1	577	582	Rad17	Gene	T10
+HPRD50_d28_1	711	715	SMC1	Gene	T11
+HPRD50_d28_1	Association	T4	T5
+HPRD50_d28_1	Association	T1	T2
+HPRD50_d28_1	Association	T1	T3
+
+HPRD50_d9_1|t|Here, we cloned and characterized a mouse orthologue of human KIAA1427 protein as an atypical Syt (named Syt XIII) Subcellular fractionation and antibody-uptake experiments indicate that Syt XIII is indeed a type-I membrane protein, but, unlike other Syt isoforms, lacks an N-terminal extracellular domain.
+HPRD50_d9_1	62	70	KIAA1427	Gene	T1
+HPRD50_d9_1	94	97	Syt	Gene	T2
+HPRD50_d9_1	105	113	Syt XIII	Gene	T3
+HPRD50_d9_1	187	195	Syt XIII	Gene	T4
+HPRD50_d9_1	251	254	Syt	Gene	T5
+
+HPRD50_d7_1|t|Suppression of rat thromboxane synthase gene transcription by peroxisome proliferator-activated receptor gamma in macrophages via an interaction with NRF2 Deletion analysis showed that the element responsible for the PPARgamma effect is located in a region containing the nuclear factor E2 (NF-E2)/AP-1 site (-98/-88), which was indicated to be the major promoter of the TXS gene By electrophoretic mobility shift assay using the NF-E2/AP-1 site and nuclear extracts from macrophages, we observed a specific protein-DNA complex formation, which was inhibited by a specific antibody against the transcription factor NRF2 (NF-E2-related factor 2) Finally, a direct interaction between PPARgamma and NRF2 was confirmed by glutathione S-transferase pull-down assay.
+HPRD50_d7_1	62	110	peroxisome proliferator-activated receptor gamma	Gene	T1
+HPRD50_d7_1	150	154	NRF2	Gene	T2
+HPRD50_d7_1	291	296	NF-E2	Gene	T3
+HPRD50_d7_1	298	302	AP-1	Gene	T4
+HPRD50_d7_1	430	435	NF-E2	Gene	T5
+HPRD50_d7_1	436	440	AP-1	Gene	T6
+HPRD50_d7_1	615	619	NRF2	Gene	T7
+HPRD50_d7_1	621	643	NF-E2-related factor 2	Gene	T8
+HPRD50_d7_1	697	701	NRF2	Gene	T9
+HPRD50_d7_1	719	744	glutathione S-transferase	Gene	T10
+HPRD50_d7_1	Association	T1	T2
+
+HPRD50_d21_1|t|In the present study, we observed evidence of cross-talk between the cannabinoid receptor CB1 and the orexin 1 receptor (OX1R) using a heterologous system In contrast to OX1R, the potency of direct activation of CB1 was not affected by co-expression with OX1R In addition, electron microscopy experiments revealed that CB1 and OX1R are closely apposed at the plasma membrane level; they are close enough to form hetero-oligomers.
+HPRD50_d21_1	90	93	CB1	Gene	T1
+HPRD50_d21_1	102	119	orexin 1 receptor	Gene	T2
+HPRD50_d21_1	121	125	OX1R	Gene	T3
+HPRD50_d21_1	170	174	OX1R	Gene	T4
+HPRD50_d21_1	212	215	CB1	Gene	T5
+HPRD50_d21_1	255	259	OX1R	Gene	T6
+HPRD50_d21_1	319	322	CB1	Gene	T7
+HPRD50_d21_1	327	331	OX1R	Gene	T8
+HPRD50_d21_1	Association	T1	T2
+HPRD50_d21_1	Association	T1	T3
+
+HPRD50_d0_1|t|Cloning and characterization of two evolutionarily conserved subunits (TFIIIC102 and TFIIIC63) of human TFIIIC and their involvement in functional interactions with TFIIIB and RNA polymerase III.
+HPRD50_d0_1	71	80	TFIIIC102	Gene	T1
+HPRD50_d0_1	85	93	TFIIIC63	Gene	T2
+HPRD50_d0_1	104	110	TFIIIC	Gene	T3
+
+HPRD50_d26_1|t|The protein pVHL functions in a multi-subunit E3 ubiquitin ligase that targets the hypoxia-inducible transcription factor Hif1 alpha for proteasomal degradation during normoxia We establish that pVHL binds to Tat-binding protein-1 (TBP-1), a component of the 19S regulatory complex of the proteasome TBP-1 associates with the beta-domain of pVHL and complexes with pVHL and Hif1 alpha in vivo Overexpression of TBP-1 promotes degradation of Hif1 alpha in a pVHL-dependent manner that requires the ATPase domain of TBP-1 Blockade of TBP-1 expression by small interfering RNA (siRNA) causes prolonged degradation kinetics of Hif1 alpha Several distinct mutations in exon 2 of VHL disrupt binding of pVHL to TBP-1 A pVHL mutant containing a P154L substitution coimmunoprecipitates with Hif1 alpha, but not TBP-1, and does not promote degradation of Hif1 alpha Thus, the ability of pVHL to degrade Hif1 alpha depends in part on its interaction with TBP-1 and suggests a new mechanism for Hif1 alpha stabilization in some pVHL-deficient tumors.
+HPRD50_d26_1	12	16	pVHL	Gene	T1
+HPRD50_d26_1	122	132	Hif1 alpha	Gene	T2
+HPRD50_d26_1	195	199	pVHL	Gene	T3
+HPRD50_d26_1	209	230	Tat-binding protein-1	Gene	T4
+HPRD50_d26_1	232	237	TBP-1	Gene	T5
+HPRD50_d26_1	300	305	TBP-1	Gene	T6
+HPRD50_d26_1	341	345	pVHL	Gene	T7
+HPRD50_d26_1	365	369	pVHL	Gene	T8
+HPRD50_d26_1	374	384	Hif1 alpha	Gene	T9
+HPRD50_d26_1	411	416	TBP-1	Gene	T10
+HPRD50_d26_1	441	451	Hif1 alpha	Gene	T11
+HPRD50_d26_1	514	519	TBP-1	Gene	T12
+HPRD50_d26_1	532	537	TBP-1	Gene	T13
+HPRD50_d26_1	623	633	Hif1 alpha	Gene	T14
+HPRD50_d26_1	674	677	VHL	Gene	T15
+HPRD50_d26_1	697	701	pVHL	Gene	T16
+HPRD50_d26_1	705	710	TBP-1	Gene	T17
+HPRD50_d26_1	713	717	pVHL	Gene	T18
+HPRD50_d26_1	783	793	Hif1 alpha	Gene	T19
+HPRD50_d26_1	803	808	TBP-1	Gene	T20
+HPRD50_d26_1	846	856	Hif1 alpha	Gene	T21
+HPRD50_d26_1	878	882	pVHL	Gene	T22
+HPRD50_d26_1	894	904	Hif1 alpha	Gene	T23
+HPRD50_d26_1	945	950	TBP-1	Gene	T24
+HPRD50_d26_1	984	994	Hif1 alpha	Gene	T25
+HPRD50_d26_1	1017	1021	pVHL	Gene	T26
+HPRD50_d26_1	Association	T1	T2
+HPRD50_d26_1	Association	T18	T19
+HPRD50_d26_1	Association	T16	T17
+HPRD50_d26_1	Association	T13	T14
+HPRD50_d26_1	Association	T3	T4
+HPRD50_d26_1	Association	T3	T5
+HPRD50_d26_1	Association	T15	T17
+HPRD50_d26_1	Association	T6	T9
+HPRD50_d26_1	Association	T6	T7
+HPRD50_d26_1	Association	T6	T8
+HPRD50_d26_1	Association	T22	T24
+HPRD50_d26_1	Association	T22	T23
+HPRD50_d26_1	Association	T25	T26
+HPRD50_d26_1	Association	T11	T12
+HPRD50_d26_1	Association	T10	T11
+
+HPRD50_d13_1|t|Here we demonstrate colocalization and direct interaction between CLIP-170 and LIS1 Overexpression of CLIP-170 results in a zinc finger-dependent localization of a phospho-LIS1 isoform and dynactin to MT bundles, raising the possibility that CLIP-170 and LIS1 regulate dynein/dynactin binding to MTs This work suggests that LIS1 is a regulated adapter between CLIP-170 and cytoplasmic dynein at sites involved in cargo-MT loading, and/or in the control of MT dynamics.
+HPRD50_d13_1	66	74	CLIP-170	Gene	T1
+HPRD50_d13_1	79	83	LIS1	Gene	T2
+HPRD50_d13_1	102	110	CLIP-170	Gene	T3
+HPRD50_d13_1	164	176	phospho-LIS1	Gene	T4
+HPRD50_d13_1	242	250	CLIP-170	Gene	T5
+HPRD50_d13_1	255	259	LIS1	Gene	T6
+HPRD50_d13_1	324	328	LIS1	Gene	T7
+HPRD50_d13_1	360	368	CLIP-170	Gene	T8
+HPRD50_d13_1	Association	T1	T2
+HPRD50_d13_1	Association	T3	T4
+HPRD50_d13_1	Association	T7	T8
+
+HPRD50_d14_1|t|Megalin and cubilin: multifunctional endocytic receptors Megalin and cubilin are two structurally different endocytic receptors that interact to serve such functions.
+HPRD50_d14_1	0	7	Megalin	Gene	T1
+HPRD50_d14_1	12	19	cubilin	Gene	T2
+HPRD50_d14_1	57	64	Megalin	Gene	T3
+HPRD50_d14_1	69	76	cubilin	Gene	T4
+HPRD50_d14_1	Association	T3	T4
+
+HPRD50_d37_1|t|TFIID dimers formed through self-association of the TATA-binding polypeptide (TBP) subunit and could be immunoprecipitated with antibodies to TAF(II)250, the core subunit of TFIID.
+HPRD50_d37_1	0	5	TFIID	Gene	T1
+HPRD50_d37_1	78	81	TBP	Gene	T2
+HPRD50_d37_1	142	152	TAF(II)250	Gene	T3
+HPRD50_d37_1	174	179	TFIID	Gene	T4
+HPRD50_d37_1	Association	T1	T3
+HPRD50_d37_1	Association	T3	T4
+
+HPRD50_d30_1|t|The tyrosine kinase Tyk-2 is physically associated with the Type I interferon (IFN) receptor complex and is rapidly activated during IFN alpha stimulation.
+HPRD50_d30_1	20	25	Tyk-2	Gene	T1
+HPRD50_d30_1	79	82	IFN	Gene	T2
+HPRD50_d30_1	133	142	IFN alpha	Gene	T3
+HPRD50_d30_1	Association	T1	T2
+HPRD50_d30_1	Association	T1	T3
+
+HPRD50_d42_1|t|Herein, we show that a distinct IkappaB protein Bcl3 also interacts with RXR, as shown in the yeast two-hybrid tests and glutathione S-transferase pull-down assays In contrast to IkappaBbeta, Bcl3 did not interact with the AF2 domain of RXR Bcl3 specifically interacted with the general transcription factors TFIIB, TBP, and TFIIA but not with TFIIEalpha in the GST pull-down assays TBP and TFIIA, however, were not able to interact with IkappaBbeta Accordingly, Bcl3 coactivated the 9-cis-RA-induced transactivations of RXR, in contrast to the inhibitory actions of IkappaBbeta In addition, coexpression of SRC-1 but not p300 further stimulated the Bcl3-mediated enhancement of the 9-cis-RA-induced transactivations of RXR.
+HPRD50_d42_1	48	52	Bcl3	Gene	T1
+HPRD50_d42_1	121	146	glutathione S-transferase	Gene	T2
+HPRD50_d42_1	179	190	IkappaBbeta	Gene	T3
+HPRD50_d42_1	192	196	Bcl3	Gene	T4
+HPRD50_d42_1	241	245	Bcl3	Gene	T5
+HPRD50_d42_1	309	314	TFIIB	Gene	T6
+HPRD50_d42_1	325	330	TFIIA	Gene	T7
+HPRD50_d42_1	362	365	GST	Gene	T8
+HPRD50_d42_1	391	396	TFIIA	Gene	T9
+HPRD50_d42_1	438	449	IkappaBbeta	Gene	T10
+HPRD50_d42_1	463	467	Bcl3	Gene	T11
+HPRD50_d42_1	567	578	IkappaBbeta	Gene	T12
+HPRD50_d42_1	608	613	SRC-1	Gene	T13
+HPRD50_d42_1	622	626	p300	Gene	T14
+HPRD50_d42_1	Association	T5	T6
+HPRD50_d42_1	Association	T5	T7
+
+HPRD50_d39_1|t|A prominent isolate, designated SRcyp/CASP10, specifically interacts with the CTD not only in vivo but also in vitro SRcyp is a nuclear protein with a characteristic distribution in large irregularly shaped nuclear speckles and co-localizes perfectly with the SR domain-containing splicing factor SC35.
+HPRD50_d39_1	32	37	SRcyp	Gene	T1
+HPRD50_d39_1	38	44	CASP10	Gene	T2
+HPRD50_d39_1	78	81	CTD	Gene	T3
+HPRD50_d39_1	117	122	SRcyp	Gene	T4
+HPRD50_d39_1	281	301	splicing factor SC35	Gene	T5
+HPRD50_d39_1	Association	T1	T3
+HPRD50_d39_1	Association	T2	T3
+
+HPRD50_d33_1|t|Cross-linking of CD53 with the use of the mAb MEM-53 and a polyclonal sheep anti-mouse Ig promoted activation of resting B cells into the G1 phase of the cell cycle as judged by increased expression of the early activation Ag CD69, increases in cellular volume, RNA synthesis, and c-myc protein levels, and enhanced binding of 7-aminoactinomycin D However, cytokines, in particular IL-2 and IL-4, potentiated the DNA synthesis induced by cross-linking of CD53.
+HPRD50_d33_1	17	21	CD53	Gene	T1
+HPRD50_d33_1	226	230	CD69	Gene	T2
+HPRD50_d33_1	281	286	c-myc	Gene	T3
+HPRD50_d33_1	382	386	IL-2	Gene	T4
+HPRD50_d33_1	391	395	IL-4	Gene	T5
+HPRD50_d33_1	455	459	CD53	Gene	T6
+HPRD50_d33_1	Association	T1	T2
+HPRD50_d33_1	Association	T1	T3
+HPRD50_d33_1	Association	T4	T6
+HPRD50_d33_1	Association	T5	T6
+
+HPRD50_d34_1|t|The human apoB mRNA editing protein is a cytidine deaminase showing structural homology to some known mammalian and bacteriophage deoxycytidylate deaminases The fact that the apoB mRNA editing protein also exists as a homodimer has important implications for the mechanism of apoB mRNA editing in humans.
+HPRD50_d34_1	10	14	apoB	Gene	T1
+HPRD50_d34_1	41	59	cytidine deaminase	Gene	T2
+HPRD50_d34_1	175	179	apoB	Gene	T3
+HPRD50_d34_1	218	227	homodimer	Gene	T4
+HPRD50_d34_1	276	280	apoB	Gene	T5
+
+HPRD50_d41_1|t|We report here that PLZF, and a structurally similar transcriptional repressor, BCL-6, can interact with a variety of corepressor proteins in addition to SMRT, including the mSin3A protein and (for PLZF) histone deacetylase-1.
+HPRD50_d41_1	80	85	BCL-6	Gene	T1
+HPRD50_d41_1	204	225	histone deacetylase-1	Gene	T2
+HPRD50_d41_1	Association	T1	T2
+
+HPRD50_d25_1|t|TR2 orphan receptor functions as negative modulator for androgen receptor in prostate cancer cells PC-3 BACKGROUND: Both androgen receptor (AR) and orphan receptor TR2 (TR2) belong to the steroid nuclear receptor superfamily and are expressed in prostate cancer tissue and cell lines The interaction between AR and TR2 was assessed by glutathione-S-transferase (GST) pull-down assay and mammalian two-hybrid system assay.
+HPRD50_d25_1	0	3	TR2	Gene	T1
+HPRD50_d25_1	56	73	androgen receptor	Gene	T2
+HPRD50_d25_1	99	103	PC-3	Gene	T3
+HPRD50_d25_1	121	138	androgen receptor	Gene	T4
+HPRD50_d25_1	164	167	TR2	Gene	T5
+HPRD50_d25_1	169	172	TR2	Gene	T6
+HPRD50_d25_1	315	318	TR2	Gene	T7
+HPRD50_d25_1	335	360	glutathione-S-transferase	Gene	T8
+HPRD50_d25_1	362	365	GST	Gene	T9
+HPRD50_d25_1	Association	T1	T2
+
+HPRD50_d3_1|t|Interleukin-6 activates phosphatidylinositol-3 kinase, which inhibits apoptosis in human prostate cancer cell lines RESULTS: Tyrosine phosphorylation of p85 is upregulated by IL-6 in both LNCaP and PC-3 IL-6 promotes coprecipitation of p85 with gp130, the signal-transducing component of the IL-6 receptor.
+HPRD50_d3_1	0	13	Interleukin-6	Gene	T1
+HPRD50_d3_1	24	53	phosphatidylinositol-3 kinase	Gene	T2
+HPRD50_d3_1	175	179	IL-6	Gene	T3
+HPRD50_d3_1	198	202	PC-3	Gene	T4
+HPRD50_d3_1	203	207	IL-6	Gene	T5
+HPRD50_d3_1	245	250	gp130	Gene	T6
+HPRD50_d3_1	292	305	IL-6 receptor	Gene	T7
+HPRD50_d3_1	Association	T1	T2
+HPRD50_d3_1	Association	T5	T6
+
+HPRD50_d22_1|t|GC-GAP, a Rho family GTPase-activating protein that interacts with signaling adapters Gab1 and Gab2 Gab1 and Gab2 are scaffolding proteins acting downstream of cell surface receptors and interact with a variety of cytoplasmic signaling proteins such as Grb2, Shp-2, phosphatidylinositol 3-kinase, Shc, and Crk In addition, GC-GAP contains several classic proline-rich motifs, and it interacts with the first SH3 domain of Crk and full-length Nck in vitro We propose that Gab1 and Gab2 in cooperation with other adapter molecules might regulate the cellular localization of GC-GAP under specific stimuli, acting to regulate precisely Rac and Cdc42 activities This work led to identification of a novel GTPase-activating protein (GAP) for Rho family GTPases The GAP domain shows high similarity to the recently cloned CdGAP and displays activity toward RhoA, Rac1, and Cdc42 in vitro The protein was named GC-GAP for its ability to interact with GAB proteins and its activity toward Rac and Cdc42 Expression of GC-GAP in 293T cells led to a reduction in active Rac1 and Cdc42 levels but not RhoA.
+HPRD50_d22_1	0	6	GC-GAP	Gene	T1
+HPRD50_d22_1	21	46	GTPase-activating protein	Gene	T2
+HPRD50_d22_1	86	90	Gab1	Gene	T3
+HPRD50_d22_1	95	99	Gab2	Gene	T4
+HPRD50_d22_1	100	104	Gab1	Gene	T5
+HPRD50_d22_1	109	113	Gab2	Gene	T6
+HPRD50_d22_1	253	257	Grb2	Gene	T7
+HPRD50_d22_1	259	264	Shp-2	Gene	T8
+HPRD50_d22_1	266	295	phosphatidylinositol 3-kinase	Gene	T9
+HPRD50_d22_1	323	329	GC-GAP	Gene	T10
+HPRD50_d22_1	442	445	Nck	Gene	T11
+HPRD50_d22_1	471	475	Gab1	Gene	T12
+HPRD50_d22_1	480	484	Gab2	Gene	T13
+HPRD50_d22_1	573	579	GC-GAP	Gene	T14
+HPRD50_d22_1	641	646	Cdc42	Gene	T15
+HPRD50_d22_1	701	726	GTPase-activating protein	Gene	T16
+HPRD50_d22_1	728	731	GAP	Gene	T17
+HPRD50_d22_1	816	821	CdGAP	Gene	T18
+HPRD50_d22_1	857	861	Rac1	Gene	T19
+HPRD50_d22_1	867	872	Cdc42	Gene	T20
+HPRD50_d22_1	904	910	GC-GAP	Gene	T21
+HPRD50_d22_1	944	947	GAB	Gene	T22
+HPRD50_d22_1	989	994	Cdc42	Gene	T23
+HPRD50_d22_1	1009	1015	GC-GAP	Gene	T24
+HPRD50_d22_1	1059	1063	Rac1	Gene	T25
+HPRD50_d22_1	1068	1073	Cdc42	Gene	T26
+HPRD50_d22_1	Association	T1	T4
+HPRD50_d22_1	Association	T1	T3
+HPRD50_d22_1	Association	T12	T14
+HPRD50_d22_1	Association	T12	T15
+HPRD50_d22_1	Association	T13	T14
+HPRD50_d22_1	Association	T13	T15
+HPRD50_d22_1	Association	T21	T22
+HPRD50_d22_1	Association	T21	T23
+HPRD50_d22_1	Association	T6	T9
+HPRD50_d22_1	Association	T6	T7
+HPRD50_d22_1	Association	T6	T8
+HPRD50_d22_1	Association	T5	T9
+HPRD50_d22_1	Association	T5	T7
+HPRD50_d22_1	Association	T5	T8
+HPRD50_d22_1	Association	T10	T11
+HPRD50_d22_1	Association	T2	T4
+HPRD50_d22_1	Association	T2	T3
+HPRD50_d22_1	Association	T24	T26
+HPRD50_d22_1	Association	T24	T25
+
+HPRD50_d4_1|t|In solution, FGFR4ed formed complexes with acidic FGF (FGF-1) and basic FGF (FGF-2), both in the presence and absence of heparin Immobilized FGFR4 also bound FGF-8 besides FGF-1 and FGF-2.
+HPRD50_d4_1	43	61	acidic FGF (FGF-1)	Gene	T1
+HPRD50_d4_1	66	83	basic FGF (FGF-2)	Gene	T2
+HPRD50_d4_1	141	146	FGFR4	Gene	T3
+HPRD50_d4_1	158	163	FGF-8	Gene	T4
+HPRD50_d4_1	172	177	FGF-1	Gene	T5
+HPRD50_d4_1	182	187	FGF-2	Gene	T6
+HPRD50_d4_1	Association	T3	T4
+HPRD50_d4_1	Association	T3	T6
+HPRD50_d4_1	Association	T3	T5
+
+HPRD50_d17_1|t|DGKdelta (type II isozyme) contains a pleckstrin homology domain at the N terminus and a sterile alpha motif domain at the C terminus.
+HPRD50_d17_1	0	8	DGKdelta	Gene	T1
+HPRD50_d17_1	38	48	pleckstrin	Gene	T2
+
+HPRD50_d10_1|t|Cutting edge: CD43 functions as a T cell counterreceptor for the macrophage adhesion receptor sialoadhesin (Siglec-1) The 130- and 240-kDa sialoadhesin-binding glycoproteins were identified as the sialomucins CD43 and P-selectin glycoprotein ligand 1 (CD162), respectively CD43 expressed in COS cells supported increased binding to immobilized sialoadhesin Finally, sialoadhesin bound different glycoforms of CD43 expressed in Chinese hamster ovary cells, including unbranched (core 1) and branched (core 2) O:-linked glycans, that are normally found on CD43 in resting and activated T cells, respectively These results identify CD43 as a T cell counterreceptor for sialoadhesin and suggest that in addition to its anti-adhesive role CD43 may promote cell-cell interactions.
+HPRD50_d10_1	14	18	CD43	Gene	T1
+HPRD50_d10_1	94	106	sialoadhesin	Gene	T2
+HPRD50_d10_1	108	116	Siglec-1	Gene	T3
+HPRD50_d10_1	209	213	CD43	Gene	T4
+HPRD50_d10_1	218	250	P-selectin glycoprotein ligand 1	Gene	T5
+HPRD50_d10_1	252	257	CD162	Gene	T6
+HPRD50_d10_1	273	277	CD43	Gene	T7
+HPRD50_d10_1	344	356	sialoadhesin	Gene	T8
+HPRD50_d10_1	366	378	sialoadhesin	Gene	T9
+HPRD50_d10_1	409	413	CD43	Gene	T10
+HPRD50_d10_1	554	558	CD43	Gene	T11
+HPRD50_d10_1	629	633	CD43	Gene	T12
+HPRD50_d10_1	666	678	sialoadhesin	Gene	T13
+HPRD50_d10_1	734	738	CD43	Gene	T14
+HPRD50_d10_1	Association	T1	T2
+HPRD50_d10_1	Association	T1	T3
+HPRD50_d10_1	Association	T12	T13
+HPRD50_d10_1	Association	T9	T10
+HPRD50_d10_1	Association	T7	T8
+
+HPRD50_d19_1|t|p300/cAMP-response-element-binding-protein ('CREB')-binding protein (CBP) modulates co-operation between myocyte enhancer factor 2A (MEF2A) and thyroid hormone receptor-retinoid X receptor p300/cAMP-response-element-binding-protein ('CREB')-binding protein (CBP) interacting with transcription factors is able to increase their activity on target gene promoters Our findings showed that the same C-terminal portion of p300 binds the N-terminal domains of both TR and MEF2A, and our in vivo studies demonstrated that TR, MEF2A and p300 form a ternary complex.
+HPRD50_d19_1	0	4	p300	Gene	T1
+HPRD50_d19_1	5	42	cAMP-response-element-binding-protein	Gene	T2
+HPRD50_d19_1	45	49	CREB	Gene	T3
+HPRD50_d19_1	133	138	MEF2A	Gene	T4
+HPRD50_d19_1	189	193	p300	Gene	T5
+HPRD50_d19_1	194	231	cAMP-response-element-binding-protein	Gene	T6
+HPRD50_d19_1	234	238	CREB	Gene	T7
+HPRD50_d19_1	418	422	p300	Gene	T8
+HPRD50_d19_1	467	472	MEF2A	Gene	T9
+HPRD50_d19_1	520	525	MEF2A	Gene	T10
+HPRD50_d19_1	530	534	p300	Gene	T11
+HPRD50_d19_1	Association	T1	T4
+HPRD50_d19_1	Association	T8	T9
+HPRD50_d19_1	Association	T3	T4
+HPRD50_d19_1	Association	T10	T11
+HPRD50_d19_1	Association	T2	T4
+
+HPRD50_d40_1|t|Transient expression of the full-length E2-2 without RSRS in U1240MG glioblastoma cells resulted in repression of FGF-1.B promoter activity These results suggest that the relative abundance of the two splice variants of E2-2 in brain could be an important determinant for the expression of FGF-1.
+HPRD50_d40_1	40	44	E2-2	Gene	T1
+HPRD50_d40_1	114	121	FGF-1.B	Gene	T2
+HPRD50_d40_1	220	224	E2-2	Gene	T3
+HPRD50_d40_1	290	295	FGF-1	Gene	T4
+HPRD50_d40_1	Association	T1	T2
+HPRD50_d40_1	Association	T3	T4
+
+HPRD50_d35_1|t|Assignment of Etfdh, Etfb, and Etfa to chromosomes 3, 7, and 13: the mouse homologs of genes responsible for glutaric acidemia type II in human We used cDNA probes for the Etfdh, Etfb, and Etfa genes to determine localization of these mouse genes to chromosomes 3, 7, and 13.
+HPRD50_d35_1	14	19	Etfdh	Gene	T1
+HPRD50_d35_1	21	25	Etfb	Gene	T2
+HPRD50_d35_1	172	177	Etfdh	Gene	T3
+HPRD50_d35_1	179	183	Etfb	Gene	T4
+
+HPRD50_d32_1|t|Differential binding of vascular cell-derived proteoglycans (perlecan, biglycan, decorin, and versican) to the beta-amyloid protein of Alzheimer's disease Previous studies have demonstrated the immunolocalization of perlecan, a specific heparan sulfate proteoglycan, to the beta-amyloid protein (A beta)-containing amyloid deposits within the walls of blood vessels (i.e., congophilic angiopathy) in Alzheimer's disease (AD) brain Overall, the results indicate that specific vascular cell-derived PGs differentially interact with A beta, and that the interactions of highest affinity occur between A beta and binding sites on both the core protein and glycosaminoglycan chains of perlecan In the present investigation, the differential binding of previously characterized endothelial cell (EC)- and smooth muscle cell (SMC)-derived PGs to A beta was examined to determine whether the accumulation of A beta in cerebrovascular amyloid deposits may be due to its interactions with perlecan Pretreatment of AA amyloidotic splenic and liver tissue sections with synthetic A beta (1-28) produced strong immunoreactivity with A beta antibodies at tissue sites enriched in perlecan which was partially removed by pretreatment with heparitinase, but not by chondroitin ABC lyase [35S]-Sulfate labeled proteoglycans (PGs) derived from cultured ECs and SMCs bound to affinity columns containing A beta (1-28) or (1-40), with virtually no binding to A beta (40-1) (reverse peptide), beta-amyloid precursor protein (410-429), or bovine serum albumin Characterization of EC and SMC PGs bound to A beta (1-28) revealed strong binding by perlecan, weak binding by decorin and biglycan, two dermatan sulfate proteoglycans, and lack of binding by versican/PG-M, a large chondroitin sulfate proteoglycan.
+HPRD50_d32_1	61	69	perlecan	Gene	T1
+HPRD50_d32_1	71	79	biglycan	Gene	T2
+HPRD50_d32_1	81	88	decorin	Gene	T3
+HPRD50_d32_1	94	102	versican	Gene	T4
+HPRD50_d32_1	216	224	perlecan	Gene	T5
+HPRD50_d32_1	237	265	heparan sulfate proteoglycan	Gene	T6
+HPRD50_d32_1	274	286	beta-amyloid	Gene	T7
+HPRD50_d32_1	315	322	amyloid	Gene	T8
+HPRD50_d32_1	497	500	PGs	Gene	T9
+HPRD50_d32_1	680	688	perlecan	Gene	T10
+HPRD50_d32_1	819	822	SMC	Gene	T11
+HPRD50_d32_1	832	835	PGs	Gene	T12
+HPRD50_d32_1	926	933	amyloid	Gene	T13
+HPRD50_d32_1	979	987	perlecan	Gene	T14
+HPRD50_d32_1	1166	1174	perlecan	Gene	T15
+HPRD50_d32_1	1261	1264	ABC	Gene	T16
+HPRD50_d32_1	1308	1311	PGs	Gene	T17
+HPRD50_d32_1	1524	1537	serum albumin	Gene	T18
+HPRD50_d32_1	1565	1568	SMC	Gene	T19
+HPRD50_d32_1	1569	1572	PGs	Gene	T20
+HPRD50_d32_1	1623	1631	perlecan	Gene	T21
+HPRD50_d32_1	1649	1656	decorin	Gene	T22
+HPRD50_d32_1	1661	1669	biglycan	Gene	T23
+HPRD50_d32_1	1730	1738	versican	Gene	T24
+HPRD50_d32_1	1739	1743	PG-M	Gene	T25
+HPRD50_d32_1	Association	T20	T22
+HPRD50_d32_1	Association	T20	T21
+HPRD50_d32_1	Association	T20	T23
+HPRD50_d32_1	Association	T6	T7
+HPRD50_d32_1	Association	T6	T8
+HPRD50_d32_1	Association	T5	T7
+HPRD50_d32_1	Association	T5	T8
+
+HPRD50_d18_1|t|The transmembrane receptor protein tyrosine phosphatase DEP1 interacts with p120(ctn) The receptor-like protein tyrosine phosphatase DEP1, also known as CD148, is expressed predominantly in epithelial cells, in a variety of tumor cell lines, and in lymphocytes DEP1 also interacted with other members of the catenin gene family including beta-catenin and gamma-catenin The interaction with p120(ctn) is likely to be direct, as the interaction occurs in K562 cells lacking functional adherens junctions and E-cadherin expression Catalytic domains of the tyrosine phosphatases PTP-PEST, CD45, and PTPbeta did not interact with proteins of the catenin family to detectable levels, suggesting that the interaction of DEP1 with these proteins is specific.
+HPRD50_d18_1	18	55	receptor protein tyrosine phosphatase	Gene	T1
+HPRD50_d18_1	56	60	DEP1	Gene	T2
+HPRD50_d18_1	76	85	p120(ctn)	Gene	T3
+HPRD50_d18_1	90	132	receptor-like protein tyrosine phosphatase	Gene	T4
+HPRD50_d18_1	133	137	DEP1	Gene	T5
+HPRD50_d18_1	153	158	CD148	Gene	T6
+HPRD50_d18_1	261	265	DEP1	Gene	T7
+HPRD50_d18_1	338	350	beta-catenin	Gene	T8
+HPRD50_d18_1	390	399	p120(ctn)	Gene	T9
+HPRD50_d18_1	506	516	E-cadherin	Gene	T10
+HPRD50_d18_1	575	583	PTP-PEST	Gene	T11
+HPRD50_d18_1	585	589	CD45	Gene	T12
+HPRD50_d18_1	713	717	DEP1	Gene	T13
+HPRD50_d18_1	Association	T1	T3
+HPRD50_d18_1	Association	T7	T8
+HPRD50_d18_1	Association	T2	T3
+
+HPRD50_d11_1|t|Direct interaction between the cytoplasmic tail of ADAM 12 and the Src homology 3 domain of p85alpha activates phosphatidylinositol 3-kinase in C2C12 cells This suggests that transmembrane ADAM 12, by providing docking sites for the Src homology 3 domain of p85alpha, activates PI 3-kinase by mediating its recruitment to the membrane.
+HPRD50_d11_1	51	58	ADAM 12	Gene	T1
+HPRD50_d11_1	92	100	p85alpha	Gene	T2
+HPRD50_d11_1	111	140	phosphatidylinositol 3-kinase	Gene	T3
+HPRD50_d11_1	189	196	ADAM 12	Gene	T4
+HPRD50_d11_1	258	266	p85alpha	Gene	T5
+HPRD50_d11_1	Association	T1	T2
+HPRD50_d11_1	Association	T1	T3
+HPRD50_d11_1	Association	T4	T5
+HPRD50_d11_1	Association	T2	T3
+
+HPRD50_d16_1|t|GADD45b and GADD45g are cdc2/cyclinB1 kinase inhibitors with a role in S and G2/M cell cycle checkpoints induced by genotoxic stress Gadd45a (Gadd45), Gadd45b (MyD118), and Gadd45g (CR6) constitute a family of evolutionarily conserved, small, acidic, nuclear proteins, which have been implicated in terminal differentiation, growth suppression, and apoptosis Recent evidence has implicated Gadd45a in inhibition of cdc2/cyclinB1 kinase and in G2/M cell cycle arrest Yet, whether Gadd45b and/or Gadd45g function as inhibitors of cdc2/cyclinB1 kinase and/or play a role in G2/M cell cycle arrest has not been fully established In this work, we show that Gadd45b and Gadd45g specifically interact with the Cdk1/CyclinB1 complex, but not with other Cdk/Cyclin complexes, in vitro and in vivo Data also has been obtained that Gadd45b and Gadd45g, as well as GADD45a, interact with both Cdk1 and cyclinB1, resulting in inhibition of the kinase activity of the Cdk1/cyclinB1 complex Inhibition of Cdk1/cyclinB1 kinase activity by Gadd45b and Gadd45a was found to involve disruption of the complex, whereas Gadd45g did not disrupt the complex.
+HPRD50_d16_1	0	7	GADD45b	Gene	T1
+HPRD50_d16_1	12	19	GADD45g	Gene	T2
+HPRD50_d16_1	24	28	cdc2	Gene	T3
+HPRD50_d16_1	133	140	Gadd45a	Gene	T4
+HPRD50_d16_1	142	148	Gadd45	Gene	T5
+HPRD50_d16_1	151	158	Gadd45b	Gene	T6
+HPRD50_d16_1	160	166	MyD118	Gene	T7
+HPRD50_d16_1	173	180	Gadd45g	Gene	T8
+HPRD50_d16_1	182	185	CR6	Gene	T9
+HPRD50_d16_1	390	397	Gadd45a	Gene	T10
+HPRD50_d16_1	415	419	cdc2	Gene	T11
+HPRD50_d16_1	479	486	Gadd45b	Gene	T12
+HPRD50_d16_1	494	501	Gadd45g	Gene	T13
+HPRD50_d16_1	528	532	cdc2	Gene	T14
+HPRD50_d16_1	652	659	Gadd45b	Gene	T15
+HPRD50_d16_1	664	671	Gadd45g	Gene	T16
+HPRD50_d16_1	703	707	Cdk1	Gene	T17
+HPRD50_d16_1	821	828	Gadd45b	Gene	T18
+HPRD50_d16_1	833	840	Gadd45g	Gene	T19
+HPRD50_d16_1	853	860	GADD45a	Gene	T20
+HPRD50_d16_1	881	885	Cdk1	Gene	T21
+HPRD50_d16_1	954	958	Cdk1	Gene	T22
+HPRD50_d16_1	990	994	Cdk1	Gene	T23
+HPRD50_d16_1	1023	1030	Gadd45b	Gene	T24
+HPRD50_d16_1	1035	1042	Gadd45a	Gene	T25
+HPRD50_d16_1	1099	1106	Gadd45g	Gene	T26
+HPRD50_d16_1	Association	T1	T3
+HPRD50_d16_1	Association	T12	T14
+HPRD50_d16_1	Association	T18	T22
+HPRD50_d16_1	Association	T18	T21
+HPRD50_d16_1	Association	T16	T17
+HPRD50_d16_1	Association	T20	T22
+HPRD50_d16_1	Association	T20	T21
+HPRD50_d16_1	Association	T13	T14
+HPRD50_d16_1	Association	T15	T17
+HPRD50_d16_1	Association	T23	T25
+HPRD50_d16_1	Association	T23	T24
+HPRD50_d16_1	Association	T19	T22
+HPRD50_d16_1	Association	T19	T21
+HPRD50_d16_1	Association	T10	T11
+HPRD50_d16_1	Association	T2	T3
+
+HPRD50_d23_1|t|A role for Plk1 phosphorylation of NudC in cytokinesis Here, we characterize the interaction between Plk1 and NudC, show that Plk1 phosphorylates NudC at conserved S274 and S326 residues in vitro, and present evidence that NudC is also a substrate for Plk1 in vivo Downregulation of NudC by RNA interference results in multiple mitotic defects, including multinucleation and cells arrested at the midbody stage, which are rescued by ectopic expression of wild-type NudC, but not by NudC with mutations in the Plk1 phosphorylation sites These results suggest that Plk1 phosphorylation of NudC may influence cytokinesis.
+HPRD50_d23_1	11	15	Plk1	Gene	T1
+HPRD50_d23_1	35	39	NudC	Gene	T2
+HPRD50_d23_1	101	105	Plk1	Gene	T3
+HPRD50_d23_1	110	114	NudC	Gene	T4
+HPRD50_d23_1	126	130	Plk1	Gene	T5
+HPRD50_d23_1	146	150	NudC	Gene	T6
+HPRD50_d23_1	223	227	NudC	Gene	T7
+HPRD50_d23_1	252	256	Plk1	Gene	T8
+HPRD50_d23_1	283	287	NudC	Gene	T9
+HPRD50_d23_1	465	469	NudC	Gene	T10
+HPRD50_d23_1	482	486	NudC	Gene	T11
+HPRD50_d23_1	509	513	Plk1	Gene	T12
+HPRD50_d23_1	563	567	Plk1	Gene	T13
+HPRD50_d23_1	587	591	NudC	Gene	T14
+HPRD50_d23_1	Association	T1	T2
+HPRD50_d23_1	Association	T13	T14
+HPRD50_d23_1	Association	T3	T4
+HPRD50_d23_1	Association	T7	T8
+HPRD50_d23_1	Association	T5	T6
+
+HPRD50_d5_1|t|Cytohesin-1 regulates beta-2 integrin-mediated adhesion through both ARF-GEF function and interaction with LFA-1 Here we provide evidence of how cytohesin-1, an integrin-binding protein and guanine-nucleotide exchange factor (GEF) for ARF GTPases, regulates cell adhesion Mutational analyses of the beta-2 cytoplasmic domain revealed that the adhesive function of LFA-1 depends on its interaction with cytohesin-1, unless the integrin is activated by exogenous divalent cations Secondly, cytohesin-1 induces expression of an extracellular activation epitope of LFA-1, and the exchange factor function is not essential for this activity In contrast, LFA-1-mediated cell adhesion and spreading on intercellular cell adhesion molecule 1 is strongly inhibited by a cytohesin-1 mutant, which fails to catalyze ARF GDP-GTP exchange in vitro Thus, cytohesin-1 is involved in the activation of LFA-1, most probably through direct interaction with the integrin, and induces cell spreading by its ARF-GEF activity.
+HPRD50_d5_1	0	11	Cytohesin-1	Gene	T1
+HPRD50_d5_1	107	112	LFA-1	Gene	T2
+HPRD50_d5_1	145	156	cytohesin-1	Gene	T3
+HPRD50_d5_1	235	238	ARF	Gene	T4
+HPRD50_d5_1	364	369	LFA-1	Gene	T5
+HPRD50_d5_1	402	413	cytohesin-1	Gene	T6
+HPRD50_d5_1	488	499	cytohesin-1	Gene	T7
+HPRD50_d5_1	561	566	LFA-1	Gene	T8
+HPRD50_d5_1	761	772	cytohesin-1	Gene	T9
+HPRD50_d5_1	805	808	ARF	Gene	T10
+HPRD50_d5_1	841	852	cytohesin-1	Gene	T11
+HPRD50_d5_1	886	891	LFA-1	Gene	T12
+HPRD50_d5_1	Association	T1	T2
+HPRD50_d5_1	Association	T9	T10
+HPRD50_d5_1	Association	T3	T4
+HPRD50_d5_1	Association	T7	T8
+HPRD50_d5_1	Association	T11	T12
+HPRD50_d5_1	Association	T5	T6
+
+HPRD50_d24_1|t|Specific interaction of Egr1 and c/EBPbeta leads to the transcriptional activation of the human low density lipoprotein receptor gene The sterol-independent regulatory element (SIRE) of the LDL receptor (LDLR) promoter mediates oncostatin M (OM)-induced transcription of the LDLR gene through a cholesterol-independent pathway.
+HPRD50_d24_1	24	28	Egr1	Gene	T1
+HPRD50_d24_1	96	128	low density lipoprotein receptor	Gene	T2
+HPRD50_d24_1	190	202	LDL receptor	Gene	T3
+HPRD50_d24_1	204	208	LDLR	Gene	T4
+HPRD50_d24_1	228	240	oncostatin M	Gene	T5
+HPRD50_d24_1	275	279	LDLR	Gene	T6
+HPRD50_d24_1	Association	T1	T2
+HPRD50_d24_1	Association	T3	T5
+HPRD50_d24_1	Association	T4	T5
+HPRD50_d24_1	Association	T5	T6
+
+HPRD50_d2_1|t|We tested this point by cotransfecting CHO cells with the genes encoding F beta alpha and the CG beta subunit or the CG beta alpha and FSH beta monomer The formation of a functional single chain/subunit complex was not restricted to the FSH single chain/CG beta subunit since CG single chain interacts with the monomeric FSH beta subunit and exhibits FSH activity This is relevant for the case of LH and FSH, because both are synthesized in the same cell (i.e., pituitary gonadotrophs) and several of the alpha subunit sequences required for association with either the LH beta or FSH beta subunits are different Previously, we showed that the CG beta or FSH beta subunit genes can be genetically fused to the alpha gene to produce biologically active single chains, CG beta alpha and F beta alpha, respectively.
+HPRD50_d2_1	94	101	CG beta	Gene	T1
+HPRD50_d2_1	117	130	CG beta alpha	Gene	T2
+HPRD50_d2_1	135	143	FSH beta	Gene	T3
+HPRD50_d2_1	254	261	CG beta	Gene	T4
+HPRD50_d2_1	321	329	FSH beta	Gene	T5
+HPRD50_d2_1	570	577	LH beta	Gene	T6
+HPRD50_d2_1	581	589	FSH beta	Gene	T7
+HPRD50_d2_1	644	651	CG beta	Gene	T8
+HPRD50_d2_1	655	663	FSH beta	Gene	T9
+HPRD50_d2_1	767	780	CG beta alpha	Gene	T10
+

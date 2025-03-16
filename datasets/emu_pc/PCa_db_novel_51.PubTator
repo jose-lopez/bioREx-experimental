@@ -1,0 +1,515 @@
+16434975|t|The R273H p53 mutation can facilitate the androgen-independent growth of LNCaP by a mechanism that involves H2 relaxin and its cognate receptor LGR7.
+16434975|a|Mutations in p53 occur at a rate of approximately 70% in hormone-refractory prostate cancer (CaP), suggesting that p53 mutations facilitate the progression of CaP to androgen-independent (AI) growth. We have previously reported that transfection of p53 gain of function mutant alleles into LNCaP, an androgen-sensitive cell line, allows for AI growth of LNCaP in vitro. We herein confirm the in vivo relevance of those findings by demonstrating that the R273H p53 mutation (p53(R273H)) facilitates AI growth in castrated nude mice. In addition, we demonstrate that H2 relaxin is responsible for facilitating p53(R273H)-mediated AI CaP. H2 relaxin is overexpressed in the LNCaP-R273H subline. Downregulation of H2 relaxin expression results in significant inhibition of AI growth, whereas addition of recombinant human H2 relaxin to parental LNCaP promotes AI growth. Inhibition of AI growth was also achieved by blocking expression of LGR7, the cognate receptor of H2 relaxin. Chromatin immunoprecipitation analysis was used to demonstrate that p53(R273H) binds directly to the relaxin promoter, further confirming a role for H2 relaxin signaling in p53(R273H)-mediated AI CaP. Lastly, we used a reporter gene assay to demonstrate that H2 relaxin can induce the expression of prostate-specific antigen via an androgen receptor-mediated pathway.
+16434975	4	9	R273H	ProteinMutation	tmVar:p|SUB|R|273|H;HGVS:p.R273H;VariantGroup:0;CorrespondingGene:7157;RS#:28934576;CA#:434
+16434975	10	13	p53	Gene	7157
+16434975	163	166	p53	Gene	7157
+16434975	226	241	prostate cancer	Disease	D011471
+16434975	265	268	p53	Gene	7157
+16434975	399	402	p53	Gene	7157
+16434975	604	609	R273H	ProteinMutation	tmVar:p|SUB|R|273|H;HGVS:p.R273H;VariantGroup:0;CorrespondingGene:7157;RS#:28934576;CA#:434
+16434975	628	633	R273H	ProteinMutation	tmVar:p|SUB|R|273|H;HGVS:p.R273H;VariantGroup:0;CorrespondingGene:7157;RS#:28934576;CA#:434
+16434975	758	761	p53	Gene	7157
+16434975	762	767	R273H	ProteinMutation	tmVar:p|SUB|R|273|H;HGVS:p.R273H;VariantGroup:0;CorrespondingGene:7157;RS#:28934576;CA#:434
+16434975	827	832	R273H	ProteinMutation	tmVar:p|SUB|R|273|H;HGVS:p.R273H;VariantGroup:0;CorrespondingGene:7157;RS#:28934576;CA#:434
+16434975	1195	1198	p53	Gene	7157
+16434975	1199	1204	R273H	ProteinMutation	tmVar:p|SUB|R|273|H;HGVS:p.R273H;VariantGroup:0;CorrespondingGene:7157;RS#:28934576;CA#:434
+16434975	1300	1303	p53	Gene	7157
+16434975	1304	1309	R273H	ProteinMutation	tmVar:p|SUB|R|273|H;HGVS:p.R273H;VariantGroup:0;CorrespondingGene:7157;RS#:28934576;CA#:434
+16434975	Association	D011471	7157
+
+12783936|t|New paraoxonase 1 polymorphism I102V and the risk of prostate cancer in Finnish men.
+12783936|a|BACKGROUND: Human serum paraoxonase eliminates carcinogenic lipid-soluble radicals. Because expression of the main human paraoxonase gene PON1 varies widely in humans, certain PON1 polymorphisms might be associated with increased risks of cancer. We sought new functional mutations in PON1 and determined whether known or new PON1 mutations were associated with the risk for prostate cancer in a prospective, random, population-based sample of Finnish men and in a case-control study. METHODS: Serum paraoxonase activity was measured in 835 healthy men in the Kuopio Ischaemic Heart Disease Risk Factor Study. PON1 mutations were identified by hierarchical phenotype-targeted sequencing in DNAs from the 100 men with the lowest paraoxonase activity in this cohort, and 1595 men in the cohort were genotyped for PON1 mutations by restriction fragment length polymorphism. Multivariable analysis was used to investigate the association of known and new PON1 mutations with incident prostate cancer in 1569 cancer-free men in the cohort followed for 9-14 years. In a case-control study of Finnish men, the association of prostate cancer with the PON1 mutation identified in the cohort study was investigated in 69 case patients with familial prostate cancer and 69 unmatched healthy control subjects. RESULTS: We identified a new single-nucleotide PON1 polymorphism associated with decreased serum paraoxonase activity that caused an isoleucine-->valine change at codon 102 in exon 4 (I102V). Of the 1569 men cancer-free at baseline, 56 (3.6%) were carriers of the I102V mutation. After adjusting for age and cholesterol-lowering medications, the relative risk for developing prostate cancer during follow-up was 6.3 (95% confidence interval [CI] = 2.1 to 19.2) among 102V allele carriers compared with noncarriers. Other PON1 alleles were not statistically significantly associated with prostate cancer. In the case-control study, patients with familial prostate cancer were more likely to be carriers of the PON1 I102V mutation than control subjects (odds ratio = 4.3, 95% CI = 0.9 to 21.5). CONCLUSION: The PON1 102V allele appears to be associated with an increased risk for prostate cancer.
+12783936	4	17	paraoxonase 1	Gene	5444
+12783936	31	36	I102V	ProteinMutation	tmVar:p|SUB|I|102|V;HGVS:p.I102V;VariantGroup:0;CorrespondingGene:5444;RS#:72552787;CA#:162906027
+12783936	53	68	prostate cancer	Disease	D011471
+12783936	223	227	PON1	Gene	5444
+12783936	261	265	PON1	Gene	5444
+12783936	370	374	PON1	Gene	5444
+12783936	411	415	PON1	Gene	5444
+12783936	460	475	prostate cancer	Disease	D011471
+12783936	695	699	PON1	Gene	5444
+12783936	896	900	PON1	Gene	5444
+12783936	1036	1040	PON1	Gene	5444
+12783936	1065	1080	prostate cancer	Disease	D011471
+12783936	1203	1218	prostate cancer	Disease	D011471
+12783936	1228	1232	PON1	Gene	5444
+12783936	1430	1434	PON1	Gene	5444
+12783936	1516	1555	isoleucine-->valine change at codon 102	ProteinMutation	tmVar:p|SUB|I|102|V;HGVS:p.I102V;VariantGroup:0;CorrespondingGene:5444;RS#:72552787;CA#:162906027
+12783936	1567	1572	I102V	ProteinMutation	tmVar:p|SUB|I|102|V;HGVS:p.I102V;VariantGroup:0;CorrespondingGene:5444;RS#:72552787;CA#:162906027
+12783936	1647	1652	I102V	ProteinMutation	tmVar:p|SUB|I|102|V;HGVS:p.I102V;VariantGroup:0;CorrespondingGene:5444;RS#:72552787;CA#:162906027
+12783936	1758	1773	prostate cancer	Disease	D011471
+12783936	1904	1908	PON1	Gene	5444
+12783936	1970	1985	prostate cancer	Disease	D011471
+12783936	2092	2096	PON1	Gene	5444
+12783936	2097	2102	I102V	ProteinMutation	tmVar:p|SUB|I|102|V;HGVS:p.I102V;VariantGroup:0;CorrespondingGene:5444;RS#:72552787;CA#:162906027
+12783936	2192	2196	PON1	Gene	5444
+12783936	2261	2276	prostate cancer	Disease	D011471
+12783936	Association	D011471	5444
+
+15863270|t|The missense mutations in the candidate prostate cancer gene ELAC2 do not alter enzymatic properties of its product.
+15863270|a|The candidate prostate cancer gene ELAC2 encodes tRNA 3' processing endoribonuclease (tRNase ZL). We produced recombinant human tRNase ZL's, which contain one to three amino-acid substitutions from three missense mutations (Ser217Leu, Ala541Thr, and Arg781His) that are associated with the occurrence of prostate cancer. These enzymes were examined for the pre-tRNA cleavage and the RNase 65 activity. We did not observe any differences in enzymatic properties such as Km and k(cat) values between the wild-type tRNase ZL and its variants. We conclude that there is no causality between the enzymatic properties of tRNase ZL and the prostate cancer.
+15863270	40	55	prostate cancer	Disease	D011471
+15863270	61	66	ELAC2	Gene	60528
+15863270	131	146	prostate cancer	Disease	D011471
+15863270	152	157	ELAC2	Gene	60528
+15863270	352	361	Ala541Thr	ProteinMutation	tmVar:p|SUB|A|541|T;HGVS:p.A541T;VariantGroup:1;CorrespondingGene:60528;RS#:5030739;CA#:117233
+15863270	421	436	prostate cancer	Disease	D011471
+15863270	750	765	prostate cancer	Disease	D011471
+15863270	Association	D011471	60528
+
+18288683|t|Analysis of the gene coding for the BRCA2-interacting protein PALB2 in hereditary prostate cancer.
+18288683|a|BACKGROUND: The genetic basis of susceptibility to prostate cancer (PRCA) remains elusive. Mutations in BRCA2 have been associated with increased prostate cancer risk and account for around 2% of young onset (<56 years) prostate cancer cases. PALB2 is a recently identified breast cancer susceptibility gene whose protein is closely associated with BRCA2 and is essential for BRCA2 anchorage to nuclear structures. This functional relationship made PALB2 a candidate PRCA susceptibility gene. METHODS: We sequenced PALB2 in probands from 95 PRCA families, 77 of which had two or more cases of early onset PRCA (age at diagnosis <55 years), and the remaining 18 had one case of early onset PRCA and five or more total cases of PRCA. RESULTS: Two previously unreported variants, K18R and V925L were identified, neither of which is in a known PALB2 functional domain and both of which are unlikely to be pathogenic. No truncating mutations were identified. CONCLUSIONS: These results indicate that deleterious PALB2 mutations are unlikely to play a significant role in hereditary prostate cancer.
+18288683	62	67	PALB2	Gene	79728
+18288683	150	165	prostate cancer	Disease	D011471
+18288683	245	260	prostate cancer	Disease	D011471
+18288683	319	334	prostate cancer	Disease	D011471
+18288683	342	347	PALB2	Gene	79728
+18288683	548	553	PALB2	Gene	79728
+18288683	614	619	PALB2	Gene	79728
+18288683	876	880	K18R	ProteinMutation	tmVar:p|SUB|K|18|R;HGVS:p.K18R;VariantGroup:0;CorrespondingGene:79728;RS#:138789658;CA#:161315
+18288683	939	944	PALB2	Gene	79728
+18288683	1106	1111	PALB2	Gene	79728
+18288683	Association	D011471	79728
+
+12949798|t|Ser217Leu polymorphism of the HPC2/ELAC2 gene associated with prostatic cancer risk in Japanese men.
+12949798|a|The HPC2/ELAC2 gene may be associated with hereditary/familial prostate cancer (PCa). Two common missense variants (Ser217Leu and Ala541Thr) have been reported in the gene. We performed mutational, allelotyping and expression analyses and a molecular epidemiological study to clarify the relations between this gene and prostatic diseases, including PCa and benign prostatic hyperplasia (BPH) in Japanese men. We screened for mutations in 109 patients with PCa including 11 patients from 1 hereditary and 9 familial PCa. Loss of heterozygosity and expression were analyzed. An epidemiological study was done in sporadic PCa (n=98) and BPH (n=143) using 1 novel (Ser627Leu) and 2 previously described polymorphisms of the HPC2/ELAC2 gene. Somatic or germline mutations were not confirmed in any cases of PCa. Loss of heterozygosity at 2 microsatellites, D17S1289 and D17S520, was detected in 1 of 38 and 1 of 35 cases, respectively. Expression analysis revealed decreased or absent mRNA expression in 6 of 38 tumors. Epidemiologic analysis showed that a Leu allele at codon 217 was significantly more frequent in patients with PCa than in controls (10.2% vs. 3.5%, odds ratio = 3.11; 95% confidence interval, 1.22-7.90). At codon 541, all patients with PCa or BPH and all control subjects had the Ala/Ala genotype. At codon 627, the incidence of the Leu variant was slightly, but not significantly, higher in patients with BPH than in controls (7.0% vs. 2.8%, odds ratio = 2.59, 95% confidence interval, 0.94-7.13, not statistically significant). We concluded that germline/somatic mutations of HPC2/ELAC2 are uncommon in PCa. Similarly, allelic imbalances at the gene locus and changes in expression are rare. Although no difference in allele frequency at Ser217Leu between patients with PCa and controls has been reported in a Western population, this polymorphism is a potential indicator of PCa risk in Japanese men and it should be examined in other ethnic groups.
+12949798	30	34	HPC2	Gene	60528
+12949798	35	40	ELAC2	Gene	60528
+12949798	62	78	prostatic cancer	Disease	D011471
+12949798	105	109	HPC2	Gene	60528
+12949798	110	115	ELAC2	Gene	60528
+12949798	763	772	Ser627Leu	ProteinMutation	tmVar:p|SUB|S|627|L;HGVS:p.S627L;VariantGroup:0;CorrespondingGene:60528;RS#:78105154;CA#:8401034
+12949798	822	826	HPC2	Gene	60528
+12949798	827	832	ELAC2	Gene	60528
+12949798	1695	1699	HPC2	Gene	60528
+12949798	1700	1705	ELAC2	Gene	60528
+12949798	Association	D011471	60528
+
+16282370|t|Stress kinase signaling regulates androgen receptor phosphorylation, transcription, and localization.
+16282370|a|Activation of signal transduction kinase cascades is known to alter androgen receptor (AR) activity, but the molecular mechanisms are still poorly defined. Here we show that stress kinase signaling regulates Ser 650 phosphorylation and AR nuclear export. In LNCaP prostate cancer cells, activation of either MAPK kinase (MKK) 4:c-Jun N-terminal kinase (JNK) or MKK6:p38 signaling pathways increased Ser 650 phosphorylation, whereas pharmacologic inhibition of JNK or p38 signaling led to a reduction of AR Ser 650 phosphorylation. Both p38alpha and JNK1 phosphorylated Ser 650 in vitro. Small interfering RNA-mediated knockdown of either MKK4 or MKK6 increased endogenous prostate-specific antigen (PSA) transcript levels, and this increase was blocked by either bicalutamide or AR small interfering RNA. Stress kinase inhibition of PSA transcription is, therefore, dependent on the AR. Similar experiments involving either activation or inhibition of MAPK/ERK kinase:ERK signaling had little effect on Ser 650 phosphorylation or PSA mRNA levels. Ser 650 is proximal to the DNA binding domain that contains a nuclear export signal. Mutation of Ser 650 to alanine reduced nuclear export of the AR, whereas mutation of Ser 650 to the phosphomimetic amino acid aspartate restored AR nuclear export. Pharmacologic inhibition of stress kinase signaling reduced wild-type AR nuclear export equivalent to the S650A mutant without affecting nuclear export of the S650D mutant. Our data suggest that stress kinase signaling and nuclear export regulate AR transcriptional activity.
+16282370	34	51	androgen receptor	Gene	367
+16282370	170	187	androgen receptor	Gene	367
+16282370	189	191	AR	Gene	367
+16282370	338	340	AR	Gene	367
+16282370	366	381	prostate cancer	Disease	D011471
+16282370	605	607	AR	Gene	367
+16282370	881	883	AR	Gene	367
+16282370	985	987	AR	Gene	367
+16282370	1246	1264	Ser 650 to alanine	ProteinMutation	tmVar:p|SUB|S|650|A;HGVS:p.S650A;VariantGroup:0;CorrespondingGene:367
+16282370	1295	1297	AR	Gene	367
+16282370	1379	1381	AR	Gene	367
+16282370	1468	1470	AR	Gene	367
+16282370	1504	1509	S650A	ProteinMutation	tmVar:p|SUB|S|650|A;HGVS:p.S650A;VariantGroup:0;CorrespondingGene:367
+16282370	1645	1647	AR	Gene	367
+16282370	Association	D011471	367
+
+17502119|t|ATM missense variant P1054R predisposes to prostate cancer.
+17502119|a|BACKGROUND: Prostate cancer is associated with defective DNA strand break repair after DNA damage leading to genetic instability and prostate cancer progression. The ATM (ataxia-telangiectasia mutated) gene product is known to play an important role in cell cycle regulation and maintenance of genomic integrity. We investigated whether the prevalence of the ATM missense substitution P1054R is increased in a hospital-based series of prostate cancer patients and whether carriers are at increased risk for treatment-related side effects. MATERIALS AND METHODS: A consecutive series of 261 patients treated for early-stage prostate cancer with I-125 brachytherapy (permanent seed implantation) between 10/2000 and 04/2006 at our institution and a comparison group of 460 male control individuals were screened for the presence of the P1054R variant. Outcome of therapy regarding morbidity was assessed prospectively and compared between carriers vs. non-carriers with the International Prostate Symptom Score (IPSS), a Quality-of-Life-index (QoL) and the International Index of Erectile Function (IIEF-15) with its subgroups (IIEF-5 and EF). RESULTS: The proportion of carriers of the P1054R variant was significantly higher among prostate cancer patients than in the general population (25 out of 261 vs. 22 out of 460; OR 2.1; 95% CI 1.2-3.8, p<0.01). A subgroup of the carriers additionally harboured the ATM missense variant F858L that was associated with a similar risk (OR=2.2; 95% CI 1.1-4.6; p=0.03). After a mean follow-up of 18 months there were no statistically significant differences regarding IPSS (p=0.48), QoL (p=0.61), IIEF-15 score (p=0.78), IIEF-5 score (p=0.83), and EF score (p=0.80), respectively. CONCLUSIONS: The ATM missense variant P1054R confers an about twofold increased risk for prostate cancer in our series. The subgroup of patients with the second-site variant F858L is not at significantly higher risk. After 18 months, there was no evidence for an increased adverse radiotherapy response in P1054R carriers.
+17502119	0	3	ATM	Gene	472
+17502119	21	27	P1054R	ProteinMutation	tmVar:p|SUB|P|1054|R;HGVS:p.P1054R;VariantGroup:0;CorrespondingGene:472;RS#:1800057;CA#:157098
+17502119	43	58	prostate cancer	Disease	D011471
+17502119	72	87	Prostate cancer	Disease	D011471
+17502119	193	208	prostate cancer	Disease	D011471
+17502119	226	261	ATM (ataxia-telangiectasia mutated)	Gene	472
+17502119	419	422	ATM	Gene	472
+17502119	445	451	P1054R	ProteinMutation	tmVar:p|SUB|P|1054|R;HGVS:p.P1054R;VariantGroup:0;CorrespondingGene:472;RS#:1800057;CA#:157098
+17502119	495	510	prostate cancer	Disease	D011471
+17502119	683	698	prostate cancer	Disease	D011471
+17502119	894	900	P1054R	ProteinMutation	tmVar:p|SUB|P|1054|R;HGVS:p.P1054R;VariantGroup:0;CorrespondingGene:472;RS#:1800057;CA#:157098
+17502119	1245	1251	P1054R	ProteinMutation	tmVar:p|SUB|P|1054|R;HGVS:p.P1054R;VariantGroup:0;CorrespondingGene:472;RS#:1800057;CA#:157098
+17502119	1291	1306	prostate cancer	Disease	D011471
+17502119	1468	1471	ATM	Gene	472
+17502119	1797	1800	ATM	Gene	472
+17502119	1818	1824	P1054R	ProteinMutation	tmVar:p|SUB|P|1054|R;HGVS:p.P1054R;VariantGroup:0;CorrespondingGene:472;RS#:1800057;CA#:157098
+17502119	1869	1884	prostate cancer	Disease	D011471
+17502119	2086	2092	P1054R	ProteinMutation	tmVar:p|SUB|P|1054|R;HGVS:p.P1054R;VariantGroup:0;CorrespondingGene:472;RS#:1800057;CA#:157098
+17502119	Association	D011471	472
+
+16963262|t|Identification of germline MLH1 alterations in familial prostate cancer.
+16963262|a|Several linkage and loss of heterozygosity (LOH) analyses suggest that the region 3p21-p26, which is a chromosomal location of MLH1, could harbour a susceptibility gene for prostate cancer (PRCA). Furthermore, in a recent candidate single nucleotide polymorphism (SNP) analysis the I219V variation of the MLH1 gene was associated with PRCA. Microsatellite instability (MSI) and germ-line MLH1 mutations were originally demonstrated in hereditary non-polyposis colorectal cancer (HNPCC) but MSI and loss of MLH1 function have also been detected in PRCA. To assess the contribution of MLH1 germline mutations to the development of PRCA in Finland different approaches were used. First, the samples from 11 PRCA-colon cancer patients were screened for MLH1, MSH2 and MSH6 protein expression by immunohistochemistry (IHC). IHC revealed one patient with a putative MLH1 aberration and sequencing of this sample revealed five sequence variants including two missense variants P434L and I219V. Second, the samples from Finnish hereditary prostate cancer (HPC) families were used for the screening of MLH1 mutations which produced twelve MLH1 sequence variants including two missense mutations, I219V, as in the PRCA-colon cancer patient, and V647M. P434L and V647 were both novel, rare variants. Carrier frequencies of the I219V mutation were compared between hereditary prostate cancer (HPC) patients, unselected PRCA cases, patients with benign prostate hyperplasia and controls, but no differences between the sample groups were found. P434L was not present in this study population and V647M was a very rare variant found only in one HPC family. According to the present results, MLH1 does not have a major role in PRCA causation in Finland.
+16963262	27	31	MLH1	Gene	4292
+16963262	200	204	MLH1	Gene	4292
+16963262	246	261	prostate cancer	Disease	D011471
+16963262	378	382	MLH1	Gene	4292
+16963262	461	465	MLH1	Gene	4292
+16963262	579	583	MLH1	Gene	4292
+16963262	656	660	MLH1	Gene	4292
+16963262	822	826	MLH1	Gene	4292
+16963262	933	937	MLH1	Gene	4292
+16963262	1043	1048	P434L	ProteinMutation	tmVar:p|SUB|P|434|L;HGVS:p.P434L;VariantGroup:0;CorrespondingGene:4292;RS#:1308786233
+16963262	1166	1170	MLH1	Gene	4292
+16963262	1203	1207	MLH1	Gene	4292
+16963262	1315	1320	P434L	ProteinMutation	tmVar:p|SUB|P|434|L;HGVS:p.P434L;VariantGroup:0;CorrespondingGene:4292;RS#:1308786233
+16963262	1605	1610	P434L	ProteinMutation	tmVar:p|SUB|P|434|L;HGVS:p.P434L;VariantGroup:0;CorrespondingGene:4292;RS#:1308786233
+16963262	1750	1754	MLH1	Gene	4292
+16963262	Association	D011471	4292
+
+14691288|t|Androgen receptor mutations in high-grade prostate cancer before hormonal therapy.
+14691288|a|Androgen action is mediated through androgen receptor (AR), which appears to undergo structural and functional alterations during prostate cancer (CaP) progression. AR mutations have been infrequently reported in CaP before hormonal therapy, but in untreated, advanced tumors AR mutations are suggested to be more common. To investigate the frequency of AR mutations in aggressive CaP before hormonal therapy, we have analyzed AR coding region for aberrations in 21 paraffin-embedded prostate carcinoma samples (14 primary tumors, 7 metastases) of poor histologic differentiation. Single-stranded conformational polymorphism and sequencing analyses revealed AR missense mutations in 29% (4/14) of the primary tumors and in one (14%) metastasis. Mutations resided in the transactivation domain and in the hinge region. One of the hinge region mutants, Ser646Phe, that was identified in a patient with short endocrine therapy response, exhibited a markedly increased transcriptional activity on single androgen response element-containing promoters. In conclusion, AR mutations are frequent in high-grade CaP before initiation of hormonal therapy, and these mutations may play a role in poor therapy response and emergence of hormone-refractory CaP in some cases.
+14691288	0	17	Androgen receptor	Gene	367
+14691288	42	57	prostate cancer	Disease	D011471
+14691288	119	136	androgen receptor	Gene	367
+14691288	138	140	AR	Gene	367
+14691288	213	228	prostate cancer	Disease	D011471
+14691288	248	250	AR	Gene	367
+14691288	359	361	AR	Gene	367
+14691288	437	439	AR	Gene	367
+14691288	510	512	AR	Gene	367
+14691288	567	585	prostate carcinoma	Disease	D011472
+14691288	741	743	AR	Gene	367
+14691288	934	943	Ser646Phe	ProteinMutation	tmVar:p|SUB|S|646|F;HGVS:p.S646F;VariantGroup:0;CorrespondingGene:367
+14691288	1146	1148	AR	Gene	367
+14691288	Association	D011472	367
+14691288	Association	D011471	367
+
+15617028|t|Androgen receptor mutants detected in recurrent prostate cancer exhibit diverse functional characteristics.
+15617028|a|BACKGROUND: Alterations in the function of androgen receptor (AR) and its signaling pathway may be responsible for the progression of prostate cancer. The goal of the present study was to investigate the potential roles of AR structural and functional alterations in the progression of prostate cancer, and the relationship between the structure and function of the AR. METHODS: AR gene in 58 prostate cancer samples was examined for mutations using PCR-single strand conformation polymorphism (SSCP) analysis and DNA sequencing. Effects of mutations on the structure and function of AR were investigated by androgen-binding assays and transactivation assays, respectively. RESULTS: Four novel somatic mutations (G142V, D221H, E872Q, and M886I) were identified from recurrent prostate cancer samples. None of the AR mutants differed from wild-type AR (wtAR) in their abilities to bind the synthetic androgen methyltrienolone. However, these mutated AR exhibited diverse functional characteristics as compared with wtAR. G142V and D221H showed increased responses to DHT. E872Q could be abnormally activated by 17beta-estradiol, progesterone, and cyproterone acetate (CPA). Furthermore, E872Q and M886I presented increased responses to DHT in the presence of coactivators TIF-2 and CBP, but not p300. On the other hand, although overexpression of corepressors N-CoR and SMRT could result in evident inhibition on DHT- or CPA-induced transactivity of wtAR and the AR mutants, N-CoR displayed stronger inhibitory effects on DHT-induced transactivity of the AR mutants (especially for E872Q and M886I) than that of wtAR. To our knowledge, this is the first characterization of enhanced inhibitory effects of corepressors on the transactivity of the AR mutants found in prostate cancer. CONCLUSIONS: The data presented here demonstrate that AR mutants found in prostate cancer had different functional alterations, which might play an important role in the progression of prostate cancer.
+15617028	0	17	Androgen receptor	Gene	367
+15617028	48	63	prostate cancer	Disease	D011471
+15617028	151	168	androgen receptor	Gene	367
+15617028	170	172	AR	Gene	367
+15617028	242	257	prostate cancer	Disease	D011471
+15617028	331	333	AR	Gene	367
+15617028	394	409	prostate cancer	Disease	D011471
+15617028	474	476	AR	Gene	367
+15617028	487	489	AR	Gene	367
+15617028	501	516	prostate cancer	Disease	D011471
+15617028	692	694	AR	Gene	367
+15617028	846	851	M886I	ProteinMutation	tmVar:p|SUB|M|886|I;HGVS:p.M886I;VariantGroup:1;CorrespondingGene:367
+15617028	884	899	prostate cancer	Disease	D011471
+15617028	921	923	AR	Gene	367
+15617028	956	958	AR	Gene	367
+15617028	1057	1059	AR	Gene	367
+15617028	1304	1309	M886I	ProteinMutation	tmVar:p|SUB|M|886|I;HGVS:p.M886I;VariantGroup:1;CorrespondingGene:367
+15617028	1570	1572	AR	Gene	367
+15617028	1662	1664	AR	Gene	367
+15617028	1699	1704	M886I	ProteinMutation	tmVar:p|SUB|M|886|I;HGVS:p.M886I;VariantGroup:1;CorrespondingGene:367
+15617028	1853	1855	AR	Gene	367
+15617028	1873	1888	prostate cancer	Disease	D011471
+15617028	1944	1946	AR	Gene	367
+15617028	1964	1979	prostate cancer	Disease	D011471
+15617028	2075	2090	prostate cancer	Disease	D011471
+15617028	Association	D011471	367
+
+16039774|t|The 5alpha-reductase type II A49T and V89L high-activity allelic variants are more common in men with prostate cancer compared with the general population.
+16039774|a|OBJECTIVES: To compare men with prostate disease with those from the general population regarding polymorphisms in the androgen receptor gene and in the 5alpha-reductase II (SRD5A2) gene. MATERIALS AND METHODS: The SRD5A2 polymorphisms A49T, V89L and R227Q, the androgen receptor CAG and GGN repeats and sex hormone status was investigated in men with prostate cancer (CaP) (n=89), benign prostate hyperplasia (n=45) and healthy military conscripts (n=223). RESULTS: The SRD5A2 high-activity allele variants A49T AT and V89L LL were more frequent in CaP-patients compared to general population, p=0.026 and p=0.05, respectively. CaP progression was, however, independent of SRD5A2 variants. In contrary, men with GGN<23 had a higher risk of dying from the disease than their counterparts with longer repeats. CONCLUSIONS: Men with CaP were more often genetically predisposed to a higher enzymatic activity in the turn over from T to DHT compared to the general population. In our population, androgen receptor genotype affected CaP outcome.
+16039774	102	117	prostate cancer	Disease	D011471
+16039774	330	336	SRD5A2	Gene	6716
+16039774	371	377	SRD5A2	Gene	6716
+16039774	407	412	R227Q	ProteinMutation	tmVar:p|SUB|R|227|Q;HGVS:p.R227Q;VariantGroup:0;CorrespondingGene:6716;RS#:9332964;CA#:116158
+16039774	508	523	prostate cancer	Disease	D011471
+16039774	627	633	SRD5A2	Gene	6716
+16039774	830	836	SRD5A2	Gene	6716
+16039774	Association	D011471	6716
+
+17336451|t|Uncoupling of hormone-dependence from chaperone-dependence in the L701H mutation of the androgen receptor.
+17336451|a|The mechanisms underlying androgen receptor (AR)-mediated progression of prostate cancer following androgen ablation have yet to be fully determined. On this basis we screened naturally occurring mutants of human AR for hormone-independent activity using a yeast model system. An initial screen of 43 different mutants revealed that ARs having a Leu701His mutation (AR(L701H)) exhibited hormone-independent activation of a lacZ reporter gene. The AR(L701H) mutant bound dihydrotestosterone to a similar extent as did wild type AR, although its ability to be induced by hormone for transactivation was reduced substantially. Subsequent studies focused on the dependence of AR(L701H) on molecular chaperones for folding to the active state. We found that AR(L701H) was highly dependent on Hsp90 for its hormone-independent activation, suggesting that this chaperone functions in AR(L701H) folding. However, the mutant did not respond specifically to increased levels of FKBP52, suggesting that this chaperone functions at the hormone-dependent activation stage in the folding process. Further studies of AR(L701H) in PC3 cells suggested that this mutant is prohibited from hormone-independent transactivation in mammalian cells. However, basal expression of a reporter gene by AR(L701H) was not impaired by the presence of 17-allylamino-17-demethoxygeldanamycin as was wild type AR, suggesting differential interactions of these receptors with molecular chaperones in animal cells.
+17336451	66	71	L701H	ProteinMutation	tmVar:p|SUB|L|701|H;HGVS:p.L701H;VariantGroup:0;CorrespondingGene:367
+17336451	88	105	androgen receptor	Gene	367
+17336451	133	150	androgen receptor	Gene	367
+17336451	152	154	AR	Gene	367
+17336451	180	195	prostate cancer	Disease	D011471
+17336451	320	322	AR	Gene	367
+17336451	453	462	Leu701His	ProteinMutation	tmVar:p|SUB|L|701|H;HGVS:p.L701H;VariantGroup:0;CorrespondingGene:367
+17336451	473	475	AR	Gene	367
+17336451	476	481	L701H	ProteinMutation	tmVar:p|SUB|L|701|H;HGVS:p.L701H;VariantGroup:0;CorrespondingGene:367
+17336451	554	556	AR	Gene	367
+17336451	557	562	L701H	ProteinMutation	tmVar:p|SUB|L|701|H;HGVS:p.L701H;VariantGroup:0;CorrespondingGene:367
+17336451	634	636	AR	Gene	367
+17336451	779	781	AR	Gene	367
+17336451	782	787	L701H	ProteinMutation	tmVar:p|SUB|L|701|H;HGVS:p.L701H;VariantGroup:0;CorrespondingGene:367
+17336451	860	862	AR	Gene	367
+17336451	863	868	L701H	ProteinMutation	tmVar:p|SUB|L|701|H;HGVS:p.L701H;VariantGroup:0;CorrespondingGene:367
+17336451	984	986	AR	Gene	367
+17336451	987	992	L701H	ProteinMutation	tmVar:p|SUB|L|701|H;HGVS:p.L701H;VariantGroup:0;CorrespondingGene:367
+17336451	1209	1211	AR	Gene	367
+17336451	1212	1217	L701H	ProteinMutation	tmVar:p|SUB|L|701|H;HGVS:p.L701H;VariantGroup:0;CorrespondingGene:367
+17336451	1382	1384	AR	Gene	367
+17336451	1385	1390	L701H	ProteinMutation	tmVar:p|SUB|L|701|H;HGVS:p.L701H;VariantGroup:0;CorrespondingGene:367
+17336451	1484	1486	AR	Gene	367
+17336451	Association	D011471	367
+
+12856637|t|Elevated serum triiodothyronine (t3) in Ashkenazi Jewish prostate cancer patients carrying the I1307k allele of the APC (adenopolyposis coli) gene.
+12856637|a|PURPOSE: The risk of developing any cancer in carriers of the I1307K mutation of the adenopolyposis coli (APC) gene is significantly increased (odds ratio 1.5, P = 0.01). One of the cancers associated with the I1307K mutation is prostate cancer (odds ratio 2.0, P = 0.14). Also, there is an association of APC mutations with thyroid cancer. In this study, we measured triiodothyronine (t3) levels in Ashkenazi Jewish prostate cancer patients, with and without the I1307K mutation of the APC gene. MATERIALS AND METHODS: Participants in our study were found through urology and radiation oncology clinics in 1999 and 2000. All eligible patients were asked to take part. All patients had been initially diagnosed on the basis of rising PSA or abnormal physical examination. Histological confirmation of diagnosis was obtained for all subjects. Ethnic background was confirmed for all subjects by self-report or interview. The I1307K allele of the APC gene was detected by amplification of DNA isolated from peripheral blood according to standard polymerase chain reaction (PCR) and dot blot procedures. Serum t3 level was determined by fluorescent immunoassay with a standard, commercially available instrument. RESULTS: We studied 77 patients. The youngest patient was 46, the oldest 88, average age 67 +/- 7.2 (mean +/- SD). Eleven males carrying the APCI 1307K allele had significantly higher serum t3 levels than 66 males carrying the wild type allele. There were no homozygotes for the I1307K allele. None of the males had a t3 level that was above the normal range for our laboratory (137 ng/dl). CONCLUSIONS: Our findings of increased serum t3 level with the APC I1307K allele in prostate cancer patients is not surprising, given the mitogenic potential of t3. Further studies may clarify whether t3 elevation is the mechanism whereby APC gene mutations increase the risk of prostate cancer, or whether other pathophysiologic abnormalities are involved.
+12856637	57	72	prostate cancer	Disease	D011471
+12856637	116	141	APC (adenopolyposis coli)	Gene	324
+12856637	210	216	I1307K	ProteinMutation	tmVar:p|SUB|I|1307|K;HGVS:p.I1307K;VariantGroup:0;CorrespondingGene:324;RS#:1801155;CA#:8761
+12856637	254	257	APC	Gene	324
+12856637	358	364	I1307K	ProteinMutation	tmVar:p|SUB|I|1307|K;HGVS:p.I1307K;VariantGroup:0;CorrespondingGene:324;RS#:1801155;CA#:8761
+12856637	377	392	prostate cancer	Disease	D011471
+12856637	454	457	APC	Gene	324
+12856637	565	580	prostate cancer	Disease	D011471
+12856637	612	618	I1307K	ProteinMutation	tmVar:p|SUB|I|1307|K;HGVS:p.I1307K;VariantGroup:0;CorrespondingGene:324;RS#:1801155;CA#:8761
+12856637	635	638	APC	Gene	324
+12856637	1072	1078	I1307K	ProteinMutation	tmVar:p|SUB|I|1307|K;HGVS:p.I1307K;VariantGroup:0;CorrespondingGene:324;RS#:1801155;CA#:8761
+12856637	1093	1096	APC	Gene	324
+12856637	1499	1509	APCI 1307K	ProteinMutation	tmVar:p|SUB|I|1307|K;RS#:1801155;HGVS:p.I1307K;RS#:1801155;VariantGroup:1;CorrespondingGene:324
+12856637	1637	1643	I1307K	ProteinMutation	tmVar:p|SUB|I|1307|K;HGVS:p.I1307K;VariantGroup:0;CorrespondingGene:324;RS#:1801155;CA#:8761
+12856637	1812	1815	APC	Gene	324
+12856637	1816	1822	I1307K	ProteinMutation	tmVar:p|SUB|I|1307|K;HGVS:p.I1307K;VariantGroup:0;CorrespondingGene:324;RS#:1801155;CA#:8761
+12856637	1833	1848	prostate cancer	Disease	D011471
+12856637	1988	1991	APC	Gene	324
+12856637	2028	2043	prostate cancer	Disease	D011471
+12856637	Association	D011471	324
+
+18565893|t|Risk of cancer by ATM missense mutations in the general population.
+18565893|a|PURPOSE: Truncating and missense mutations in the ATM gene, which cause insufficient DNA damage surveillance, allow damaged cells to proceed into mitosis, which eventually results in increased cancer susceptibility. We tested the hypotheses that ATM Ser49Cys and ATM Ser707Pro heterozygosity increase the risk of cancer overall, of breast cancer, and of 26 other cancer subtypes in the general population. PATIENTS AND METHODS: We genotyped 10,324 individuals from the Danish general population who were observed prospectively for 36 years, during which 2,056 developed cancer. RESULTS: Multifactorially adjusted hazard ratios for ATM Ser49Cys heterozygotes versus noncarriers were 1.2 (95% CI, 0.9 to 1.5) for cancer overall, 0.8 (95% CI, 0.3 to 2.0) for breast cancer, 4.8 (95% CI, 2.2 to 11) for melanoma, 2.3 (95% CI, 1.1 to 5.0) for prostate cancer, and 3.4 (95% CI, 1.1 to 11) for cancer of the oral cavity/pharynx. Multifactorially adjusted hazard ratios for ATM Ser707Pro heterozygotes versus noncarriers were 0.8 (95% CI, 0.6 to 1.2) for cancer overall, 0.6 (95% CI, 0.2 to 1.6) for breast cancer, 10 (95% CI, 1.1 to 93) for thyroid/other endocrine tumors, and 2.7 (95% CI, 1.0 to 7.6) for cancer of corpus uteri. CONCLUSION: ATM missense mutations do not increase the risk of cancer overall or of breast cancer in the general population; however, we observed in exploratory analyses that ATM missense mutations may be associated with an increased risk of other cancer subtypes. As we did multiple comparisons, some of these findings could represent chance findings rather than real phenomena.
+18565893	18	21	ATM	Gene	472
+18565893	118	121	ATM	Gene	472
+18565893	314	317	ATM	Gene	472
+18565893	318	326	Ser49Cys	ProteinMutation	tmVar:p|SUB|S|49|C;HGVS:p.S49C;VariantGroup:0;CorrespondingGene:472;RS#:1800054;CA#:202190
+18565893	331	334	ATM	Gene	472
+18565893	400	413	breast cancer	Disease	D001943
+18565893	699	702	ATM	Gene	472
+18565893	703	711	Ser49Cys	ProteinMutation	tmVar:p|SUB|S|49|C;HGVS:p.S49C;VariantGroup:0;CorrespondingGene:472;RS#:1800054;CA#:202190
+18565893	824	837	breast cancer	Disease	D001943
+18565893	867	875	melanoma	Disease	D008545
+18565893	906	921	prostate cancer	Disease	D011471
+18565893	1034	1037	ATM	Gene	472
+18565893	1160	1173	breast cancer	Disease	D001943
+18565893	1303	1306	ATM	Gene	472
+18565893	1375	1388	breast cancer	Disease	D001943
+18565893	1466	1469	ATM	Gene	472
+18565893	Association	D008545	472
+18565893	Association	D001943	472
+18565893	Association	D011471	472
+
+16835864|t|Characterization of CHEK2 mutations in prostate cancer.
+16835864|a|The checkpoint kinase 2 (CHEK2, also known as CHK2) is a tumor suppressor that participates in the DNA damage-signaling pathway. It is phosphorylated and activated following DNA damage, resulting in cell cycle arrest and apoptosis. Previously, we reported germline CHEK2 mutations in patients with prostate cancer. In this study, we have identified two novel somatic CHEK2 mutations, c.349A > G (p.R117G) and c.967A > C (p.E321K), in prostate tumor specimens and investigated the functions of these mutants in vivo. We have shown that most of the germline CHEK2 mutations and one somatic mutation (p.R117G) within FHA domain have modestly reduced CHEK2 kinase activity in comparison with wild-type CHEK2 while the other somatic mutation (p.E321K) within the kinase domain of CHEK2 totally abolished CHEK2 kinase activity. Given that several clinical CHEK2 mutations reside in the Forkhead-associated (FHA) domain, we further generated a series of missense mutations within this domain and demonstrated the requirement of an intact FHA domain for the full activation of CHEK2. Taken together, these results provide evidence that both germline and somatic CHEK2 mutations identified in prostate cancer may contribute to the development of prostate cancer through the reduction of CHEK2 activation in response to DNA damage and/or oncogenic stress.
+16835864	20	25	CHEK2	Gene	11200
+16835864	39	54	prostate cancer	Disease	D011471
+16835864	60	79	checkpoint kinase 2	Gene	11200
+16835864	81	86	CHEK2	Gene	11200
+16835864	102	106	CHK2	Gene	11200
+16835864	321	326	CHEK2	Gene	11200
+16835864	354	369	prostate cancer	Disease	D011471
+16835864	423	428	CHEK2	Gene	11200
+16835864	452	459	p.R117G	ProteinMutation	tmVar:p|SUB|R|117|G;HGVS:p.R117G;VariantGroup:0;CorrespondingGene:11200;RS#:28909982;CA#:288301
+16835864	490	504	prostate tumor	Disease	D011471
+16835864	612	617	CHEK2	Gene	11200
+16835864	654	661	p.R117G	ProteinMutation	tmVar:p|SUB|R|117|G;HGVS:p.R117G;VariantGroup:0;CorrespondingGene:11200;RS#:28909982;CA#:288301
+16835864	703	708	CHEK2	Gene	11200
+16835864	754	759	CHEK2	Gene	11200
+16835864	831	836	CHEK2	Gene	11200
+16835864	855	860	CHEK2	Gene	11200
+16835864	906	911	CHEK2	Gene	11200
+16835864	1125	1130	CHEK2	Gene	11200
+16835864	1210	1215	CHEK2	Gene	11200
+16835864	1240	1255	prostate cancer	Disease	D011471
+16835864	1293	1308	prostate cancer	Disease	D011471
+16835864	1334	1339	CHEK2	Gene	11200
+16835864	Association	D011471	11200
+
+16741917|t|The DU145 human prostate carcinoma cell line harbors a temperature-sensitive allele of p53.
+16741917|a|BACKGROUND: Some nuances of mutant and wild-type p53 activity have been uncovered utilizing temperature sensitive (TS) alleles. However, few human tumor derived cell lines possess a TS p53 mutant. METHODS: The cell lines DU145 (heterozygous p53, P223L, and V274F) and PC3 (p53-null, where exogenous P223L and V274F were introduced individually or in combination) were examined for TS p53 activity as revealed by reporter construct and target gene activation. RESULTS: TS p53 function was observed in DU145 and expression of the P223L allele in PC3 conferred a TS p53 profile. Activation of p21Waf1 demonstrated that P223L TS activity may have been influenced by cellular context. CONCLUSIONS: The DU145 cell line harbors a TS mutant of p53 and, in addition to being a widely used model of human prostate carcinoma, may also reveal new insights into p53 function due to the unique transcriptional properties of its TS phenotype.
+16741917	16	34	prostate carcinoma	Disease	D011472
+16741917	87	90	p53	Gene	7157
+16741917	141	144	p53	Gene	7157
+16741917	277	280	p53	Gene	7157
+16741917	333	336	p53	Gene	7157
+16741917	338	343	P223L	ProteinMutation	tmVar:p|SUB|P|223|L;HGVS:p.P223L;VariantGroup:0;CorrespondingGene:7157;RS#:138983188;CA#:10580928
+16741917	365	368	p53	Gene	7157
+16741917	391	396	P223L	ProteinMutation	tmVar:p|SUB|P|223|L;HGVS:p.P223L;VariantGroup:0;CorrespondingGene:7157;RS#:138983188;CA#:10580928
+16741917	476	479	p53	Gene	7157
+16741917	563	566	p53	Gene	7157
+16741917	620	625	P223L	ProteinMutation	tmVar:p|SUB|P|223|L;HGVS:p.P223L;VariantGroup:0;CorrespondingGene:7157;RS#:138983188;CA#:10580928
+16741917	655	658	p53	Gene	7157
+16741917	708	713	P223L	ProteinMutation	tmVar:p|SUB|P|223|L;HGVS:p.P223L;VariantGroup:0;CorrespondingGene:7157;RS#:138983188;CA#:10580928
+16741917	828	831	p53	Gene	7157
+16741917	887	905	prostate carcinoma	Disease	D011472
+16741917	941	944	p53	Gene	7157
+16741917	Association	D011472	7157
+
+17487399|t|VEGF transcription and mRNA stability are altered by WT1 not DDS(R384W) expression in LNCaP cells.
+17487399|a|To identify physiologically relevant WT1 transcriptional target genes in prostate cancer cells, we have established stably transfected LNCaP cell lines expressing either WT1(A), its mutant counterpart DDS(R384W), or vector control. Microarray analyses of these cells revealed that vascular endothelial growth factor (VEGF) was differentially expressed in the engineered lines. Regulation of VEGF by WT1 likely contributes to kidney angiogenesis during development and WT1 mutants such as DDS(R384W) are associated with the Denys-Drash syndrome (DDS), characterized by renal abnormalities. Recent mechanistic studies have demonstrated that the WT1(A) isoform binds VEGF promoter sequences and transcriptionally regulates VEGF reporter constructs. However, regulation of VEGF is complex, involving both transcriptional and post-transcriptional processes. This study examined the ability of hormone and Actinomycin D treatment to alter VEGF mRNA levels in stably transfected WT-LNCaP, DDS-LNCaP, or V-LNCaP prostate cancer cells. The rationale of this study was based on a previous finding that enhancement of VEGF expression in DDS-LNCaP cells occurred only in the presence of the androgen analog, R1881. One possible explanation for these results was that DDS-WT1 stabilized VEGF mRNA so that it accumulated to higher levels. This hypothesis was tested by treating engineered LNCaP cells with Actinomycin D (Act D) and then measuring VEGF mRNA levels by quantitative real-time PCR. The combined effects of WT1 or DDS(R384W) and hormone were tested in these message stability assays and also in transcription assays of transiently transfected LNCaP cells. The results indicated that DDS-WT1 is unable to regulate VEGF transcription or stabilize VEGF mRNA in LNCaP prostate cancer cells. However our observations are also consistent with wild-type WT1(A) having both transcriptional and post-transcriptional effects on VEGF mRNA levels in the presence of hormone. These studies of VEGF regulation by WT1 and dysregulation by DDS(R384W) suggest an important role for WT1 in both normal and tumor-related angiogenesis.
+17487399	53	56	WT1	Gene	7490
+17487399	65	70	R384W	ProteinMutation	tmVar:p|SUB|R|384|W;HGVS:p.R384W;VariantGroup:0;CorrespondingGene:7490
+17487399	136	139	WT1	Gene	7490
+17487399	172	187	prostate cancer	Disease	D011471
+17487399	269	272	WT1	Gene	7490
+17487399	304	309	R384W	ProteinMutation	tmVar:p|SUB|R|384|W;HGVS:p.R384W;VariantGroup:0;CorrespondingGene:7490
+17487399	498	501	WT1	Gene	7490
+17487399	567	570	WT1	Gene	7490
+17487399	591	596	R384W	ProteinMutation	tmVar:p|SUB|R|384|W;HGVS:p.R384W;VariantGroup:0;CorrespondingGene:7490
+17487399	622	642	Denys-Drash syndrome	Disease	D030321
+17487399	742	745	WT1	Gene	7490
+17487399	1103	1118	prostate cancer	Disease	D011471
+17487399	1358	1361	WT1	Gene	7490
+17487399	1604	1607	WT1	Gene	7490
+17487399	1615	1620	R384W	ProteinMutation	tmVar:p|SUB|R|384|W;HGVS:p.R384W;VariantGroup:0;CorrespondingGene:7490
+17487399	1784	1787	WT1	Gene	7490
+17487399	1861	1876	prostate cancer	Disease	D011471
+17487399	1944	1947	WT1	Gene	7490
+17487399	2096	2099	WT1	Gene	7490
+17487399	2125	2130	R384W	ProteinMutation	tmVar:p|SUB|R|384|W;HGVS:p.R384W;VariantGroup:0;CorrespondingGene:7490
+17487399	2162	2165	WT1	Gene	7490
+17487399	Association	D030321	7490
+17487399	Association	D011471	7490
+
+16941491|t|Unique substitution of CHEK2 and TP53 mutations implicated in primary prostate tumors and cancer cell lines.
+16941491|a|Genetic defects in CHEK2 and TP53 have been implicated in prostate cancer development. However, the interaction of these two genes in prostate cancer tumorigenesis has not been investigated. We previously described 11 CHEK2 mutations in a group of 84 primary prostate tumors. In this report, we screened the same group of tumors for TP53 mutations and revealed nine somatic and two germline mutations. One germline TP53 mutation (c.408A > T/p.Gln136His) and two somatic mutations (c.1022T > G/p.Phe341Cys and c.108-109ins22/p.His37fsX13) are novel to human cancer. More interestingly, CHEK2 and TP53 mutations were observed to be mutually substituted in these tumors. Analysis of five commonly used prostate cancer cell lines revealed that four cell lines harboring TP53 mutations carry no CHEK2 mutation while the only cell line (LNCaP) carrying wild-type TP53 harbors a CHEK2 mutation. The novel CHEK2 mutation (c.1160C>T/p.Thr387Asn) identified in LNCaP cells changes amino acid Thr387 to Asn which has been shown to impair CHEK2 autophosphorylation and activation. Our data suggest that the CHEK2 and TP53 mutations can substitute each other in at least 25% (21/84) of prostate cancers and that DNA damage-signaling pathway plays an important role in prostate cancer tumorigenesis.
+16941491	23	28	CHEK2	Gene	11200
+16941491	33	37	TP53	Gene	7157
+16941491	62	85	primary prostate tumors	Disease	D011471
+16941491	128	133	CHEK2	Gene	11200
+16941491	138	142	TP53	Gene	7157
+16941491	167	182	prostate cancer	Disease	D011471
+16941491	243	258	prostate cancer	Disease	D011471
+16941491	327	332	CHEK2	Gene	11200
+16941491	368	383	prostate tumors	Disease	D011471
+16941491	442	446	TP53	Gene	7157
+16941491	524	528	TP53	Gene	7157
+16941491	550	561	p.Gln136His	ProteinMutation	tmVar:p|SUB|Q|136|H;HGVS:p.Q136H;VariantGroup:0;CorrespondingGene:7157;RS#:758781593;CA#:162
+16941491	694	699	CHEK2	Gene	11200
+16941491	704	708	TP53	Gene	7157
+16941491	808	823	prostate cancer	Disease	D011471
+16941491	875	879	TP53	Gene	7157
+16941491	899	904	CHEK2	Gene	11200
+16941491	966	970	TP53	Gene	7157
+16941491	981	986	CHEK2	Gene	11200
+16941491	1007	1012	CHEK2	Gene	11200
+16941491	1033	1044	p.Thr387Asn	ProteinMutation	tmVar:p|SUB|T|387|N;HGVS:p.T387N;VariantGroup:1;CorrespondingGene:11200;RS#:587780168;CA#:10167716
+16941491	1091	1104	Thr387 to Asn	ProteinMutation	tmVar:p|SUB|T|387|N;HGVS:p.T387N;VariantGroup:1;CorrespondingGene:11200;RS#:587780168;CA#:10167716
+16941491	1136	1141	CHEK2	Gene	11200
+16941491	1204	1209	CHEK2	Gene	11200
+16941491	1214	1218	TP53	Gene	7157
+16941491	1282	1298	prostate cancers	Disease	D011471
+16941491	1364	1379	prostate cancer	Disease	D011471
+16941491	Association	D011471	7157
+16941491	Association	D011471	11200
+
+15714208|t|Mutation screening and association study of RNASEL as a prostate cancer susceptibility gene.
+15714208|a|To date, germline mutations have been found in three candidate genes for hereditary prostate cancer: ELAC2 at 17p11, RNASEL at 1q25 and MSR1 at 8p22. RNASEL, encoding the 2',5'-oligoadenylate-dependant RNase L, seems to have rare mutations in different ethnicities, such as M1I in Afro-Americans, E265X in men of European descent and 471delAAAG in Ashkenazi Jews. In order to evaluate the relevance of RNASEL in the German population, we sequenced its open reading frame to determine the spectrum and frequency of germline mutations. The screen included 303 affected men from 136 Caucasian families, of which 45 met the criteria for hereditary prostate cancer. Variants were analysed using a family-based association test, and genotyped in an additional 227 sporadic prostate cancer patients and 207 controls. We identified only two sib pairs (1.4% of our families) cosegregating conspicuous RNASEL variants with prostate cancer: the nonsense mutation E265X, and a new amino-acid substitution (R400P) of unknown functional relevance. Both alleles were also found at low frequencies (1.4 and 0.5%, respectively) in controls. No significant association of polymorphisms (I97L, R462Q and D541E) was observed, neither in case-control analyses nor by family-based association tests. In contrast to previous reports, our study does not suggest that common variants (i.e. R462Q) modify disease risk. Our results are not consistent with a high penetrance of deleterious RNASEL mutations. Due to the low frequency of germline mutations present in our sample, RNASEL does not have a significant impact on prostate cancer susceptibility in the German population.
+15714208	44	50	RNASEL	Gene	6041
+15714208	56	71	prostate cancer	Disease	D011471
+15714208	210	216	RNASEL	Gene	6041
+15714208	243	249	RNASEL	Gene	6041
+15714208	295	302	RNase L	Gene	6041
+15714208	495	501	RNASEL	Gene	6041
+15714208	860	875	prostate cancer	Disease	D011471
+15714208	985	991	RNASEL	Gene	6041
+15714208	1006	1021	prostate cancer	Disease	D011471
+15714208	1262	1266	I97L	ProteinMutation	tmVar:p|SUB|I|97|L;HGVS:p.I97L;VariantGroup:3;CorrespondingGene:6041;RS#:56250729;CA#:1278317
+15714208	1555	1561	RNASEL	Gene	6041
+15714208	1643	1649	RNASEL	Gene	6041
+15714208	1678	1703	impact on prostate cancer	Disease	D011471
+15714208	Association	D011471	6041
+
+16172807|t|Nucleotide variations in genes encoding plasminogen activator inhibitor-2 and serine proteinase inhibitor B10 associated with prostate cancer.
+16172807|a|Genes encoding the serine proteinase inhibitor B family (SERPINBs) are mainly clustered on human chromosome 18 (18q21). Several serpins are known to affect malignant phenotypes of tumor cells, so aberrant genetic variants in this molecular family are candidates for conferring susceptibility for risk of cancer. We investigated whether eight selected non-synonymous variations within SERPINB loci at 18q21 might be associated with risk of prostate cancer in Japanese men. A case-control study involving 292 prostate-cancer patients and 384 controls revealed significant differences in regard to distribution of four missense variations in genes encoding plasminogen activator inhibitor 2 (PAI2) and SERPINB10. The most significant association was detected for the N120D polymorphism in the PAI2 gene (P = 5.0 x 10(-5)); men carrying the 120-N allele (120-N/N and 120-N/D genotypes) carried a 2.4-fold increased risk of prostate cancer (95% confidence interval 1.45-4.07). Associations were also detected for three other missense polymorphisms in those two genes. Strong linkage disequilibrium in the region encompassing PAI2 and SERPINB10 extended to about 50 kbp. The results suggested that missense variations in one or both of these genes confer important risks for prostate cancer, and may be themselves tumorigenic. Although confirmative replication studies on larger cohorts are awaited, clinical examination of these variations may become useful for identifying individuals at high risk for prostate cancer.
+16172807	40	73	plasminogen activator inhibitor-2	Gene	5055
+16172807	126	141	prostate cancer	Disease	D011471
+16172807	582	597	prostate cancer	Disease	D011471
+16172807	650	665	prostate-cancer	Disease	D011471
+16172807	797	830	plasminogen activator inhibitor 2	Gene	5055
+16172807	832	836	PAI2	Gene	5055
+16172807	907	912	N120D	ProteinMutation	tmVar:p|SUB|N|120|D;HGVS:p.N120D;VariantGroup:0;CorrespondingGene:5055;RS#:6098;CA#:8989747
+16172807	933	937	PAI2	Gene	5055
+16172807	1062	1077	prostate cancer	Disease	D011471
+16172807	1263	1267	PAI2	Gene	5055
+16172807	1412	1427	prostate cancer	Disease	D011471
+16172807	1641	1656	prostate cancer	Disease	D011471
+16172807	Association	D011471	5055
+
+14583476|t|Effects of RNase L mutations associated with prostate cancer on apoptosis induced by 2',5'-oligoadenylates.
+14583476|a|The RNASEL gene, a strong candidate for the hereditary prostate cancer 1 allele (HPC1), encodes a single-stranded specific endoribonuclease involved in the antiviral actions of IFNs. RNase L is activated enzymatically after binding to unusual 5'-phosphorylated, 2',5'-linked oligoadenylates (2-5A). Biostable phosphorothioate analogues of 2-5A were synthesized chemically and used to study the effects of naturally occurring mutations and polymorphisms in RNASEL. The 2-5A analogues induced RNase L activity and caused apoptosis in cultures of late-stage, metastatic human prostate cancer cell lines DU145, PC3, and LNCaP. However, DU145 and PC3 cells were more sensitive to 2-5A than LNCaP cells, which are heterozygous for an inactivating deletion mutation in RNase L. The RNase activities of missense variants of human RNase L were compared after expression in a mouse RNase L(-/-) cell line. Several variants (G59S, I97L, I220V, G296V, S322F, Y529C, and D541E) produced similar levels of RNase L activity as wild-type enzyme. In contrast, the R462Q variant, previously implicated in up to 13% of unselected prostate cancer cases, bound 2-5A at wild-type levels but had a 3-fold decrease in RNase activity. The deficiency in RNase L(R462Q) activity was correlated with a reduction in its ability to dimerize into a catalytically active form. Furthermore, RNase L(R462Q) was deficient in causing apoptosis in response to 2-5A consistent with its possible role in prostate cancer development. Our findings support the notion that RNASEL mutations and some variants allow tumor cells to escape a potent apoptotic pathway.
+14583476	11	18	RNase L	Gene	6041
+14583476	45	60	prostate cancer	Disease	D011471
+14583476	112	118	RNASEL	Gene	6041
+14583476	291	298	RNase L	Gene	6041
+14583476	564	570	RNASEL	Gene	6041
+14583476	599	606	RNase L	Gene	6041
+14583476	681	696	prostate cancer	Disease	D011471
+14583476	870	877	RNase L	Gene	6041
+14583476	930	937	RNase L	Gene	6041
+14583476	1048	1053	S322F	ProteinMutation	tmVar:p|SUB|S|322|F;HGVS:p.S322F;VariantGroup:6;CorrespondingGene:6041
+14583476	1100	1107	RNase L	Gene	6041
+14583476	1219	1234	prostate cancer	Disease	D011471
+14583476	1336	1343	RNase L	Gene	6041
+14583476	1466	1473	RNase L	Gene	6041
+14583476	1573	1588	prostate cancer	Disease	D011471
+14583476	1639	1645	RNASEL	Gene	6041
+14583476	Association	D011471	6041
+
+15146458|t|Identification of a functional mutation in pp32r1 (ANP32C).
+15146458|a|No mutations or polymorphisms have previously been reported in pp32r1 (ANP32C; GenBank: AF008216.1). pp32r1 is part of the highly conserved ANP32 family, some of whose members are associated with control of histone acetylation, mRNA stability, and specialized forms of apoptosis. Although 87.6% identical at the protein level, pp32r1 is functionally distinct from pp32 (ANP32A) in its failure to suppress oncogenesis in in vitro transformation systems and its tumorigenicity in in vivo assays. The present study found that pp32r1 expression levels vary among human tumor cell lines, with the highest levels found in prostatic adenocarcinoma cell lines. pp32r1 also appears to be polymorphic at nucleotide g.4520 and nucleotide g.4664 in human tobacco-associated oral mucosal lesions, human fibroblast cell lines, and several carcinoma cell lines. PC-3 human prostatic adenocarcinoma cells likewise appear to be polymorphic at these loci, but additionally contain a g.4870T>C transversion mutation. The mutation results in a p.Tyr140His substitution, which lies in a functionally important region of the molecule. In the PC-3 prostate cancer line, the mutation is either homozygous, or hemizygous accompanied by loss of heterozygosity. ACHN cells stably transfected with pp32r1 containing this mutation showed a markedly increased rate of growth. The pp32r1 mutation could thus be causally associated with the neoplastic growth properties of PC-3, and be of potential clinical significance.
+15146458	43	49	pp32r1	Gene	23520
+15146458	51	57	ANP32C	Gene	23520
+15146458	123	129	pp32r1	Gene	23520
+15146458	131	137	ANP32C	Gene	23520
+15146458	161	167	pp32r1	Gene	23520
+15146458	387	393	pp32r1	Gene	23520
+15146458	583	589	pp32r1	Gene	23520
+15146458	676	700	prostatic adenocarcinoma	Disease	D011471
+15146458	713	719	pp32r1	Gene	23520
+15146458	1084	1095	p.Tyr140His	ProteinMutation	tmVar:p|SUB|Y|140|H;HGVS:p.Y140H;VariantGroup:0;CorrespondingGene:23520;RS#:76372915
+15146458	1185	1200	prostate cancer	Disease	D011471
+15146458	1330	1336	pp32r1	Gene	23520
+15146458	1410	1416	pp32r1	Gene	23520
+15146458	Association	D011471	23520
+
+17020975|t|RNASEL gene polymorphisms and the risk of prostate cancer: a meta-analysis.
+17020975|a|PURPOSE: Studies revealing conflicting results on the role of RNASEL polymorphisms Glu265X, Arg462Gln, and Asp541Glu on prostate cancer risk led us to perform a meta-analysis to investigate the association of these polymorphisms and prostate cancer risk. EXPERIMENTAL DESIGN: Relevant studies were selected by searching PubMed from January 1996 to August 2005 using keywords "RNASEL gene AND prostate cancer." For each study, odds ratio (OR) with 95% confidence interval (95% CI) was calculated to estimate the gene effect. Pooled estimates of the OR were computed using the random effects model. RESULTS: Ten studies were included in the meta-analysis. The overall results suggested no major influence of these variants on prostate cancer risk. However, analysis of the Asp541Glu polymorphism by ethnic populations showed that Asp/Glu (familial cases versus control: OR, 1.38; 95% CI, 1.04-1.82; sporadic cases versus control: OR, 1.26; 95% CI, 1.07-1.48; prostate cancer versus control: OR, 1.29; 95% CI, 1.12-1.48) and Asp/Glu + Glu/Glu (familial cases versus control: OR, 1.37; 95% CI, 1.10-1.70; sporadic cases versus control: OR, 1.24; 95% CI, 1.07-1.44; prostate cancer versus control: OR, 1.27; 95% CI, 1.13-1.44) increased prostate cancer risk in Caucasians, thus suggesting a dominant model for the Glu variant. CONCLUSIONS: Compared with the genotype Asp/Asp, the Glu variant at the Asp541Glu polymorphism increases prostate cancer risk by <2-fold in Caucasians, regardless of family history of the disease. This suggests that genuine genetic effects of this polymorphism may account for only a part of prostate cancer in the Caucasian population.
+17020975	0	6	RNASEL	Gene	6041
+17020975	42	57	prostate cancer	Disease	D011471
+17020975	138	144	RNASEL	Gene	6041
+17020975	183	192	Asp541Glu	ProteinMutation	tmVar:p|SUB|D|541|E;HGVS:p.D541E;VariantGroup:1;CorrespondingGene:6041;RS#:627928;CA#:1278038
+17020975	196	211	prostate cancer	Disease	D011471
+17020975	309	324	prostate cancer	Disease	D011471
+17020975	452	458	RNASEL	Gene	6041
+17020975	468	483	prostate cancer	Disease	D011471
+17020975	800	815	prostate cancer	Disease	D011471
+17020975	847	856	Asp541Glu	ProteinMutation	tmVar:p|SUB|D|541|E;HGVS:p.D541E;VariantGroup:1;CorrespondingGene:6041;RS#:627928;CA#:1278038
+17020975	1033	1048	prostate cancer	Disease	D011471
+17020975	1237	1252	prostate cancer	Disease	D011471
+17020975	1308	1323	prostate cancer	Disease	D011471
+17020975	1470	1479	Asp541Glu	ProteinMutation	tmVar:p|SUB|D|541|E;HGVS:p.D541E;VariantGroup:1;CorrespondingGene:6041;RS#:627928;CA#:1278038
+17020975	1493	1518	increases prostate cancer	Disease	D011471
+17020975	1690	1705	prostate cancer	Disease	D011471
+17020975	Association	D011471	6041
+
+11705864|t|Association of E-cadherin germ-line alterations with prostate cancer.
+11705864|a|In our recent cancer registry-based study, the incidence of gastric carcinoma was increased up to 5-fold in male relatives of early-onset prostate cancer (PCA) patients. This association may reflect the influence of genetic factors predisposing individuals to both tumor types. Germ-line mutations of the CDH1 gene at 16q have recently been associated with familial gastric cancer. Furthermore, two genome-wide linkage studies of PCA recently reported positivity at 16q. We therefore identified families and individual patients with both gastric and PCA and investigated whether the CDH1 gene mutations were involved in cancer predisposition in these cases. Fifteen of the 180 Finnish hereditary PCA families (8.3%) had one or more gastric cancer cases. No truncating or splice site CDH1 mutations were identified by PCR single-strand conformational polymorphism in these families or in eight individual patients who had both prostate and gastric cancer. However, a novel S270A missense mutation in exon 6 of the CDH1 gene was seen in a single family with four prostate and two gastric cancers. A large-scale population-based survey indicated a higher prevalence of S270A among both familial PCA cases (3.3%; n = 120; P = 0.01) and unselected PCA patients (1.5%; n = 472; P = 0.12) as compared with blood donors serving as population controls (0.5%; n = 923). We conclude that individual rare mutations and polymorphisms in the CDH1 gene, such as S270A, may contribute to the onset of PCA and warrant further investigations in other populations. However, the CDH1 gene does not appear to explain the link between prostate and gastric cancer.
+11705864	15	25	E-cadherin	Gene	999
+11705864	53	68	prostate cancer	Disease	D011471
+11705864	130	147	gastric carcinoma	Disease	D013274
+11705864	208	223	prostate cancer	Disease	D011471
+11705864	375	379	CDH1	Gene	999
+11705864	427	450	familial gastric cancer	Disease	D013274
+11705864	653	657	CDH1	Gene	999
+11705864	802	816	gastric cancer	Disease	D013274
+11705864	853	857	CDH1	Gene	999
+11705864	1009	1023	gastric cancer	Disease	D013274
+11705864	1042	1047	S270A	ProteinMutation	tmVar:p|SUB|S|270|A;HGVS:p.S270A;VariantGroup:0;CorrespondingGene:999;RS#:587776399;CA#:294235
+11705864	1083	1087	CDH1	Gene	999
+11705864	1148	1163	gastric cancers	Disease	D013274
+11705864	1236	1241	S270A	ProteinMutation	tmVar:p|SUB|S|270|A;HGVS:p.S270A;VariantGroup:0;CorrespondingGene:999;RS#:587776399;CA#:294235
+11705864	1498	1502	CDH1	Gene	999
+11705864	1517	1522	S270A	ProteinMutation	tmVar:p|SUB|S|270|A;HGVS:p.S270A;VariantGroup:0;CorrespondingGene:999;RS#:587776399;CA#:294235
+11705864	1629	1633	CDH1	Gene	999
+11705864	1696	1710	gastric cancer	Disease	D013274
+11705864	Association	D011471	999
+11705864	Association	D013274	999
+
+18193092|t|Epidermal growth factor receptor activation in prostate cancer by three novel missense mutations.
+18193092|a|While epidermal growth factor receptor (EGFR) dysregulation is known to play a critical role in prostate carcinogenesis, there has been no direct evidence indicating EGFR mutations induce tumorigenesis in prostate cancer. We previously identified four novel EGFR somatic mutations in the EGFR tyrosine kinase domain of prostate cancer patients: G735S, G796S, E804G and R841K. In this study, we investigated the oncogenic potential of these somatic mutations by establishing stable clonal NIH3T3 cells expressing these four mutations and WT EGFR to determine their ability to increase cell proliferation and invasion. In the absence of the EGF ligand, cell proliferation was readily increased in G735S, G796S and E804G mutants compared to WT EGFR. The addition of EGF ligand greatly increased cell growth and transforming ability of these same EGFR mutants. Matrigel invasion assays showed enhanced invasion with G735S, G796S and E804G mutants. Western blot analysis showed that these EGFR mutations enhanced cell growth and invasion via constitutive and hyperactive tyrosine phosphorylation and led to the activation of mitogen-activated protein kinase (MAPK), signal transducer and activator of transcription 3 (STAT3) and Akt pathways. Our findings demonstrate the oncogenic activation of three novel EGFR somatic missense mutations in prostate cancer. Molecules that regulate the mechanisms of their oncogenic activation represent novel targets for limiting tumor cell progression, and further elucidation of these mutations will have utility in prostate cancer treatment.
+18193092	0	32	Epidermal growth factor receptor	Gene	1956
+18193092	47	62	prostate cancer	Disease	D011471
+18193092	104	136	epidermal growth factor receptor	Gene	1956
+18193092	138	142	EGFR	Gene	1956
+18193092	264	268	EGFR	Gene	1956
+18193092	303	318	prostate cancer	Disease	D011471
+18193092	356	360	EGFR	Gene	1956
+18193092	386	390	EGFR	Gene	1956
+18193092	417	432	prostate cancer	Disease	D011471
+18193092	457	462	E804G	ProteinMutation	tmVar:p|SUB|E|804|G;HGVS:p.E804G;VariantGroup:2;CorrespondingGene:1956
+18193092	810	815	E804G	ProteinMutation	tmVar:p|SUB|E|804|G;HGVS:p.E804G;VariantGroup:2;CorrespondingGene:1956
+18193092	839	843	EGFR	Gene	1956
+18193092	941	945	EGFR	Gene	1956
+18193092	1027	1032	E804G	ProteinMutation	tmVar:p|SUB|E|804|G;HGVS:p.E804G;VariantGroup:2;CorrespondingGene:1956
+18193092	1082	1086	EGFR	Gene	1956
+18193092	1401	1405	EGFR	Gene	1956
+18193092	1436	1451	prostate cancer	Disease	D011471
+18193092	1647	1662	prostate cancer	Disease	D011471
+18193092	Association	D011471	1956
+
